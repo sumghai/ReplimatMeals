@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<!-- ========== Meal base abstracts ========== -->
+	
+	<ThingDef ParentName="MealCookedIngredientless" Name="ReplimatMealBase" Abstract="true">
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<!-- No market value, no impact on colony wealth -->
+		<stackLimit>1</stackLimit> <!-- For immediate consumption, not storage -->
+		<thingCategories Inherit="false">
+			<li>ReplimatMeals_ThingCatMeals</li>
+		</thingCategories>
+		<ingestible>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+		</ingestible>
+		<tradeability>None</tradeability> <!-- Never tradeable -->
+	</ThingDef>
+	
+	<ThingDef ParentName="ReplimatMealBase" Name="ReplimatMealSimpleBase" Abstract="true">
+		<statBases>
+			<Nutrition>0.5</Nutrition>
+		</statBases>
+		<ingestible>
+			<preferability>MealSimple</preferability>
+		</ingestible>
+	</ThingDef>
+	
+	<ThingDef ParentName="ReplimatMealBase" Name="ReplimatMealFineBase" Abstract="true">
+		<statBases>
+			<Nutrition>0.8</Nutrition>
+		</statBases>
+		<ingestible>
+			<preferability>MealFine</preferability>
+			<tasteThought>AteFineMeal</tasteThought>
+		</ingestible>
+	</ThingDef>
+	
+	<ThingDef ParentName="ReplimatMealBase" Name="ReplimatMealLavishBase" Abstract="true">
+		<statBases>
+			<Nutrition>1</Nutrition>
+		</statBases>
+		<ingestible>
+			<preferability>MealLavish</preferability>
+			<tasteThought>AteLavishMeal</tasteThought>
+		</ingestible>
+	</ThingDef>
+	
+	<!-- 
+	
+	Note for modders wanting to create their own Replimat-exclusive meals
+	********************************************************************
+	
+	Replimat-exclusive meals have no recipes or ingredients, to simply mod development and maintenance by not requiring
+	dummy recipes or patching specific ingredients based on third-party mods that add various new raw food resources.
+	
+	For compatibility with the Ideology DLC's dietary requirements precepts, add the following comp to your meal defs:
+	
+		<li Class="CompProperties_Ingredients" />
+	
+	By default, this makes the meal acceptable to everyone, but specific dietary requirements can be set
+	using the optional parameter <noIngredientsFoodKind>:
+	
+		<li Class="CompProperties_Ingredients">
+			<noIngredientsFoodKind>Meat</noIngredientsFoodKind>		(For meals that always contain meat)
+		</li>
+		
+		<li Class="CompProperties_Ingredients">
+			<noIngredientsFoodKind>NonMeat</noIngredientsFoodKind>	(For meals that always lacto-ovo vegetarian)
+		</li>
+	
+	-->
+	
+	<!-- ========== Simple meals ========== -->
+	
+	<!-- Borscht -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Borscht</defName>
+		<label>borscht</label>
+		<description>An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.245</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Caesar salad -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_CaesarSalad</defName>
+		<label>Caesar salad</label>
+		<description>A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.2</Mass>
+			<Nutrition>0.3</Nutrition> <!-- Mostly raw leafy vegetables, with bread and dressing -->
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" /> <!-- Not strictly vegetarian, as most dressings contain anchovies (fish) -->
+		</comps>
+	</ThingDef>
+	
+	<!-- Cuban sandwich -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_CubanSandwich</defName>
+		<label>Cuban sandwich</label>
+		<description>A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.255</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Currywurst -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Currywurst</defName>
+		<label>currywurst</label>
+		<description>Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.255</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Dumplings -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Dumplings</defName>
+		<label>dumplings</label>
+		<description>Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.27</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Fish n' chips -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_FishAndChips</defName>
+		<label>fish n' chips</label>
+		<description>Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.354</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Gyros -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Gyros</defName>
+		<label>gyros</label>
+		<description>Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.36</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Kakigori -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Kakigori</defName>
+		<label>kakigori</label>
+		<description>An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.06</Mass>
+			<Nutrition>0.1</Nutrition> <!-- Literally just frozen water with flavoring -->
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Margherita pizza -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_MargheritaPizza</defName>
+		<label>Margherita pizza</label>
+		<description>Slices of rustic pizza topped with chopped tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.204</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Minced pork rice -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_MincedPorkRice</defName>
+		<label>minced pork rice</label>
+		<description>A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.199</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Pancakes -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Pancakes</defName>
+		<label>pancakes</label>
+		<description>A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.152</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Pastrami on rye -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_PastramiOnRye</defName>
+		<label>pastrami on rye</label>
+		<description>A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.252</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Pork buns -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_PorkBuns</defName>
+		<label>pork buns</label>
+		<description>Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.255</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Poutine -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Poutine</defName>
+		<label>poutine</label>
+		<description>A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.35</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Sachertorte -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Sachertorte</defName>
+		<label>sachertorte</label>
+		<description>A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.282</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Shrimp tacos -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_ShrimpTacos</defName>
+		<label>shrimp tacos</label>
+		<description>Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.246</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Takoyaki -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Takoyaki</defName>
+		<label>takoyaki</label>
+		<description>A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.264</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Tiramisu -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Tiramisu</defName>
+		<label>tiramisu</label>
+		<description>A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.145</Mass>
+			<Nutrition>0.4</Nutrition>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Weisswurst -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Weisswurst</defName>
+		<label>Weisswurst</label>
+		<description>A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.341</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Zongzi -->
+	<ThingDef ParentName="ReplimatMealSimpleBase">
+		<defName>ReplimatMeals_S_Zongzi</defName>
+		<label>zongzi</label>
+		<description>Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.35</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- ========== Fine meals ========== -->
+
+	<!-- Beef noodle soup -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_BeefNoodleSoup</defName>
+		<label>beef noodle soup</label>
+		<description>Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.492</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Beef rouladen -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_BeefRouladen</defName>
+		<label>beef rouladen</label>
+		<description>A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.458</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Bunny chow -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_BunnyChow</defName>
+		<label>bunny chow</label>
+		<description>A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.466</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Chaliapin steak -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ChaliapinSteak</defName>
+		<label>chaliapin steak</label>
+		<description>A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.47</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Chicken and waffles -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ChickenAndWaffles</defName>
+		<label>chicken and waffles</label>
+		<description>Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.447</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Chicken Kyiv -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ChickenKyiv</defName>
+		<label>chicken Kyiv</label>
+		<description>Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.458</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Chicken pot pie -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ChickenPotPie</defName>
+		<label>chicken pot pie</label>
+		<description>A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.375</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Chicken tikka masala -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ChickenTikkaMasala</defName>
+		<label>chicken tikka masala</label>
+		<description>Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.35</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Jollof rice -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_JollofRice</defName>
+		<label>jollof rice</label>
+		<description>An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.33</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Käsespätzle -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Kasespatzle</defName>
+		<label>käsespätzle</label>
+		<description>European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.461</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Katsu curry -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_KatsuCurry</defName>
+		<label>katsu curry</label>
+		<description>A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.328</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Koshari -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Koshari</defName>
+		<label>koshari</label>
+		<description>A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.426</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>NonMeat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Loco moco -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_LocoMoco</defName>
+		<label>loco moco</label>
+		<description>A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.497</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Nachos -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Nachos</defName>
+		<label>nachos</label>
+		<description>An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.55</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Omurice -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Omurice</defName>
+		<label>omurice</label>
+		<description>Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.39</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Paella -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Paella</defName>
+		<label>paella</label>
+		<description>A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.341</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Phở -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Pho</defName>
+		<label>phở</label>
+		<description>Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.51</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Ramen -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Ramen</defName>
+		<label>ramen</label>
+		<description>A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.5</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Ratatouille -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_Ratatouille</defName>
+		<label>ratatouille</label>
+		<description>A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.428</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>NonMeat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Shepherd's pie -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_ShepherdsPie</defName>
+		<label>shepherd's pie</label>
+		<description>A minced meat pie topped with mash potato, originating from Britain and France on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.467</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Tagliatelle al ragù -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_TagliatelleAlRagu</defName>
+		<label>tagliatelle al ragù</label>
+		<description>Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.46</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Tenzaru soba -->
+	<ThingDef ParentName="ReplimatMealFineBase">
+		<defName>ReplimatMeals_F_TenzaruSoba</defName>
+		<label>tenzaru soba</label>
+		<description>Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.54</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+
+	<!-- ========== Lavish meals ========== -->
+
+	<!-- Full English breakfast -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_FullEnglishBreakfast</defName>
+		<label>full English breakfast</label>
+		<description>A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.636</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Gumbo -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_Gumbo</defName>
+		<label>gumbo</label>
+		<description>A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.58</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Hāngī -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_Hangi</defName>
+		<label>Hāngī</label>
+		<description>An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.65</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Kaiseki -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_Kaiseki</defName>
+		<label>kaiseki</label>
+		<description>A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.375</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients" />
+		</comps>
+	</ThingDef>
+	
+	<!-- Lobster Thermidor -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_LobsterThermidor</defName>
+		<label>Lobster Thermidor</label>
+		<description>A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.454</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+	
+	<!-- Sunday roast -->
+	<ThingDef ParentName="ReplimatMealLavishBase">
+		<defName>ReplimatMeals_L_SundayRoast</defName>
+		<label>Sunday roast</label>
+		<description>A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy.</description>
+		<graphicData>
+			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+		</graphicData>
+		<statBases>
+			<Mass>0.572</Mass>
+		</statBases>
+		<comps>
+			<li Class="CompProperties_Ingredients">
+				<noIngredientsFoodKind>Meat</noIngredientsFoodKind>
+			</li>
+		</comps>
+	</ThingDef>
+
+</Defs>

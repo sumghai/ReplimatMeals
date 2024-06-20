@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingCategoryDef>
+		<defName>ReplimatMeals_ThingCatMeals</defName>
+		<label>replicated meals</label>
+		<parent>FoodMeals</parent>
+		<iconPath>Things/Item/Meal/ReplimatMeals_Placeholder</iconPath> <!-- todo - add final graphics -->
+	</ThingCategoryDef>
+	
+</Defs>
