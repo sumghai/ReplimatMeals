@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: borscht -->
+	<ReplimatMeals_S_Borscht.label>보르시</ReplimatMeals_S_Borscht.label>
+	
+	<!-- EN: An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth. -->
+	<ReplimatMeals_S_Borscht.description>붉은 비트 뿌리와 고기 육수로 만든 동유럽식 신맛이 나는 수프로, 우크라이나에서 유래했습니다.</ReplimatMeals_S_Borscht.description>
+	
+	<!-- EN: Caesar salad -->
+	<ReplimatMeals_S_CaesarSalad.label>시저 샐러드</ReplimatMeals_S_CaesarSalad.label>
+
+	<!-- EN: A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_CaesarSalad.description>로메인 양상추, 크루통, 드레싱으로 구성된 간단한 토스 샐러드입니다. 이름과는 달리 시저 샐러드는 실제로 고대 멕시코의 바하 캘리포니아에서 유래했습니다.</ReplimatMeals_S_CaesarSalad.description>
+
+	<!-- EN: Cuban sandwich -->
+	<ReplimatMeals_S_CubanSandwich.label>쿠바 샌드위치</ReplimatMeals_S_CubanSandwich.label>
+
+	<!-- EN: A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving. -->
+	<ReplimatMeals_S_CubanSandwich.description>20세기 초 쿠바 이민자들이 마이애미와 탬파에 소개한 고전적인 햄과 치즈 샌드위치의 변형입니다. 쿠바산 긴 빵으로 만들어 대각선으로 자른 후 제공합니다.</ReplimatMeals_S_CubanSandwich.description>
+
+	<!-- EN: currywurst -->
+	<ReplimatMeals_S_Currywurst.label>커리버거</ReplimatMeals_S_Currywurst.label>
+
+	<!-- EN: Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries. -->
+	<ReplimatMeals_S_Currywurst.description>한입 크기로 썰어 카레 케첩을 발라 쪄서 튀긴 돼지고기 소시지로, 1940년대 후반 독일에서 패스트푸드로 인기를 끌었습니다. 두툼한 감자튀김과 함께 제공됩니다.</ReplimatMeals_S_Currywurst.description>
+
+	<!-- EN: dumplings -->
+	<ReplimatMeals_S_Dumplings.label>만두</ReplimatMeals_S_Dumplings.label>
+
+	<!-- EN: Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity. -->
+	<ReplimatMeals_S_Dumplings.description>고기와 야채를 갈아서 밀가루 반죽에 얇게 말아 작은 소포로 싸서 끓여서 조리한 요리. 고대부터 대만, 홍콩, 특별 구역 4 등지에서 전채 요리나 가벼운 식사로 즐겨 먹었습니다.</ReplimatMeals_S_Dumplings.description>
+
+	<!-- EN: fish n' chips -->
+	<ReplimatMeals_S_FishAndChips.label>피쉬 앤 칩스</ReplimatMeals_S_FishAndChips.label>
+
+	<!-- EN: Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth. -->
+	<ReplimatMeals_S_FishAndChips.description>영연방과 구대륙의 다른 영어권 국가에서 인기 있는 테이크아웃 음식인 튀김옷에 튀긴 생선을 칩(두꺼운 감자튀김)과 함께 제공하는 요리입니다.</ReplimatMeals_S_FishAndChips.description>
+
+	<!-- EN: gyros -->
+	<ReplimatMeals_S_Gyros.label>기로스</ReplimatMeals_S_Gyros.label>
+
+	<!-- EN: Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth. -->
+	<ReplimatMeals_S_Gyros.description>고기를 세로로 구워 토마토와 양파로 감싼 피타 빵에 구운 요리로 그리스에서 인기가 높습니다.</ReplimatMeals_S_Gyros.description>
+
+	<!-- EN: kakigori -->
+	<ReplimatMeals_S_Kakigori.label>카키고리</ReplimatMeals_S_Kakigori.label>
+
+	<!-- EN: An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer. -->
+	<ReplimatMeals_S_Kakigori.description>다양한 시럽과 감미료를 얹은 올드 어스 일본식 빙수로 여름에 큰 인기를 끌고 있는 디저트입니다.</ReplimatMeals_S_Kakigori.description>
+
+	<!-- EN: Margherita pizza -->
+	<ReplimatMeals_S_MargheritaPizza.label>마르게리타 피자</ReplimatMeals_S_MargheritaPizza.label>
+
+	<!-- EN: Slices of rustic pizza topped with chopped tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth. -->
+	<ReplimatMeals_S_MargheritaPizza.description>잘게 썬 토마토, 모짜렐라 치즈, 바질 가지를 얹은 소박한 피자 한 조각은 고대 지구의 이탈리아에서 유래한 음식입니다.</ReplimatMeals_S_MargheritaPizza.description>
+
+	<!-- EN: minced pork rice -->
+	<ReplimatMeals_S_MincedPorkRice.label>다진 돼지고기 밥</ReplimatMeals_S_MincedPorkRice.label>
+
+	<!-- EN: A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth. -->
+	<ReplimatMeals_S_MincedPorkRice.description>밥 한 그릇에 갈은 돼지고기 찜과 절인 채소 한 조각을 얹은 대만 전통 음식인 올드 어스.</ReplimatMeals_S_MincedPorkRice.description>
+
+	<!-- EN: pancakes -->
+	<ReplimatMeals_S_Pancakes.label>팬케이크</ReplimatMeals_S_Pancakes.label>
+
+	<!-- EN: A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada. -->
+	<ReplimatMeals_S_Pancakes.description>올드 어스 캐나다산 메이플 시럽을 뿌린 버터밀크 팬케이크가 넉넉하게 쌓여 있습니다.</ReplimatMeals_S_Pancakes.description>
+
+	<!-- EN: pastrami on rye -->
+	<ReplimatMeals_S_PastramiOnRye.label>호밀에 파스트라미</ReplimatMeals_S_PastramiOnRye.label>
+
+	<!-- EN: A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s. -->
+	<ReplimatMeals_S_PastramiOnRye.description>호밀빵에 얇게 썬 파스트라미(소고기 양지머리)로 구성된 샌드위치로, 1800년대 후반 뉴욕으로 이주한 유대인들에 의해 대중화되었습니다.</ReplimatMeals_S_PastramiOnRye.description>
+
+	<!-- EN: pork buns -->
+	<ReplimatMeals_S_PorkBuns.label>돼지고기 번</ReplimatMeals_S_PorkBuns.label>
+
+	<!-- EN: Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_PorkBuns.description>갈은 돼지고기를 효모로 발효시킨 반죽에 싸서 찌는 음식으로 대만, 홍콩, 일본, 특별 구역 4 등 구대륙에서 간식으로 즐겨 먹는 음식입니다.</ReplimatMeals_S_PorkBuns.description>
+
+	<!-- EN: poutine -->
+	<ReplimatMeals_S_Poutine.label>푸틴</ReplimatMeals_S_Poutine.label>
+
+	<!-- EN: A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth. -->
+	<ReplimatMeals_S_Poutine.description>갈색 그레이비를 얹은 감자튀김과 치즈 커드의 기름진 요리로, 캐나다 퀘벡 지방의 올드어스에서 유래한 음식입니다.</ReplimatMeals_S_Poutine.description>
+
+	<!-- EN: sachertorte -->
+	<ReplimatMeals_S_Sachertorte.label>자허토르테</ReplimatMeals_S_Sachertorte.label>
+
+	<!-- EN: A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth. -->
+	<ReplimatMeals_S_Sachertorte.description>살구 잼 필링과 다크 초콜릿 아이싱을 곁들인 퇴폐적인 초콜릿 스펀지 케이크로, 오스트리아 올드 어스의 호텔 자허의 후계자들이 라이선스를 받아 재현한 제품입니다.</ReplimatMeals_S_Sachertorte.description>
+
+	<!-- EN: shrimp tacos -->
+	<ReplimatMeals_S_ShrimpTacos.label>새우 타코</ReplimatMeals_S_ShrimpTacos.label>
+
+	<!-- EN: Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_ShrimpTacos.description>한 손 크기의 작은 옥수수 토르티야에 튀긴 새우, 양상추, 아보카도 살사를 가득 채운 멕시코 바하 캘리포니아의 올드 어스 출신 음식입니다.</ReplimatMeals_S_ShrimpTacos.description>
+
+	<!-- EN: takoyaki -->
+	<ReplimatMeals_S_Takoyaki.label>타코야키</ReplimatMeals_S_Takoyaki.label>
+
+	<!-- EN: A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings. -->
+	<ReplimatMeals_S_Takoyaki.description>다진 문어살을 반죽을 입혀 두툼한 공 모양으로 만든 일본의 인기 간식입니다. 우스터 소스, 마요네즈, 파래, 가쓰오부시를 얹어 제공합니다.</ReplimatMeals_S_Takoyaki.description>
+
+	<!-- EN: tiramisu -->
+	<ReplimatMeals_S_Tiramisu.label>티라미수</ReplimatMeals_S_Tiramisu.label>
+
+	<!-- EN: A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth. -->
+	<ReplimatMeals_S_Tiramisu.description>커피에 적신 스펀지 케이크 비스킷과 크림, 치즈를 층층이 쌓아 올린 디저트로, 이탈리아의 옛 지구에서 유래한 디저트입니다.</ReplimatMeals_S_Tiramisu.description>
+
+	<!-- EN: Weisswurst -->
+	<ReplimatMeals_S_Weisswurst.label>바이스부르스트</ReplimatMeals_S_Weisswurst.label>
+
+	<!-- EN: A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels. -->
+	<ReplimatMeals_S_Weisswurst.description>다진 송아지 고기와 돼지고기 백 베이컨으로 만든 전통적인 올드 어스 바이에른 소시지입니다. 보통 달콤한 머스터드와 부드러운 프레즐과 함께 제공됩니다.</ReplimatMeals_S_Weisswurst.description>
+
+	<!-- EN: zongzi -->
+	<ReplimatMeals_S_Zongzi.label>쭝쯔</ReplimatMeals_S_Zongzi.label>
+
+	<!-- EN: Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_Zongzi.description>찹쌀, 고기, 기타 고소한 속재료를 대나무 잎에 싸서 찌거나 삶은 음식입니다. 대만, 홍콩, 말레이시아, 싱가포르, 특별 구역 4 등 구대륙에서 가벼운 식사로 즐겨 먹는 음식입니다.</ReplimatMeals_S_Zongzi.description>
+
+	<!-- EN: beef noodle soup -->
+	<ReplimatMeals_F_BeefNoodleSoup.label>소고기 국수 수프</ReplimatMeals_F_BeefNoodleSoup.label>
+
+	<!-- EN: Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_F_BeefNoodleSoup.description>소고기 육수에 소고기, 야채, 국수를 넣고 끓인 요리로 대만, 홍콩, 특별 구역 4의 노점상에서 흔히 볼 수 있는 구대륙의 음식입니다.</ReplimatMeals_F_BeefNoodleSoup.description>
+
+	<!-- EN: beef rouladen -->
+	<ReplimatMeals_F_BeefRouladen.label>소고기 룰라덴</ReplimatMeals_F_BeefRouladen.label>
+
+	<!-- EN: A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings. -->
+	<ReplimatMeals_F_BeefRouladen.description>얇고 부드러운 쇠고기 스테이크를 베이컨, 겨자, 피클과 함께 말아 진한 그레이비에 끓인 전통 독일 요리입니다. 찐 적양배추와 감자 만두와 함께 제공됩니다.</ReplimatMeals_F_BeefRouladen.description>
+
+	<!-- EN: bunny chow -->
+	<ReplimatMeals_F_BunnyChow.label>버니 차우</ReplimatMeals_F_BunnyChow.label>
+
+	<!-- EN: A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad. -->
+	<ReplimatMeals_F_BunnyChow.description>속이 비어 있는 흰 빵에 양고기 카레를 채운 음식으로, 1940년대 남아공으로 이주한 인도인들이 즐겨 먹던 음식입니다. 샐러드와 함께 제공됩니다.</ReplimatMeals_F_BunnyChow.description>
+
+	<!-- EN: chaliapin steak -->
+	<ReplimatMeals_F_ChaliapinSteak.label>찰리아핀 스테이크</ReplimatMeals_F_ChaliapinSteak.label>
+
+	<!-- EN: A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache. -->
+	<ReplimatMeals_F_ChaliapinSteak.description>양파와 함께 부드럽게 구운 소고기 스테이크에 물냉이와 볶은 감자를 곁들인 요리입니다. 원래 1930년대 중반 일본에서 치통으로 고생하는 러시아 오페라 가수를 위해 발명된 요리입니다.</ReplimatMeals_F_ChaliapinSteak.description>
+
+	<!-- EN: chicken and waffles -->
+	<ReplimatMeals_F_ChickenAndWaffles.label>치킨 앤 와플</ReplimatMeals_F_ChickenAndWaffles.label>
+
+	<!-- EN: Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth. -->
+	<ReplimatMeals_F_ChickenAndWaffles.description>와플에 프라이드 치킨을 곁들인 미국 남부 펜실베이니아의 네덜란드 요리인 올드 어스.</ReplimatMeals_F_ChickenAndWaffles.description>
+
+	<!-- EN: chicken Kyiv -->
+	<ReplimatMeals_F_ChickenKyiv.label>치킨 키예프</ReplimatMeals_F_ChickenKyiv.label>
+
+	<!-- EN: Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes. -->
+	<ReplimatMeals_F_ChickenKyiv.description>버터와 허브로 속을 채운 빵가루를 입힌 치킨 커틀릿으로 러시아, 우크라이나 및 구소련의 다른 동구권 국가에서 인기가 있습니다. 으깬 감자와 함께 제공됩니다.</ReplimatMeals_F_ChickenKyiv.description>
+
+	<!-- EN: chicken pot pie -->
+	<ReplimatMeals_F_ChickenPotPie.label>치킨 팟 파이</ReplimatMeals_F_ChickenPotPie.label>
+
+	<!-- EN: A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenPotPie.description>바삭한 페이스트리 크러스트와 크리미한 닭고기 및 버섯 필링이 어우러진 미트 파이로, 구대륙 영국에서 유래한 음식입니다.</ReplimatMeals_F_ChickenPotPie.description>
+
+	<!-- EN: chicken tikka masala -->
+	<ReplimatMeals_F_ChickenTikkaMasala.label>치킨 티카 마살라</ReplimatMeals_F_ChickenTikkaMasala.label>
+
+	<!-- EN: Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenTikkaMasala.description>향신료와 요구르트에 절인 닭고기 덩어리를 구워 크리미한 토마토 베이스의 매콤한 소스에 곁들인 요리로, 구대륙의 인도 이민자들이 영국에서 즐겨 먹던 음식입니다.</ReplimatMeals_F_ChickenTikkaMasala.description>
+
+	<!-- EN: jollof rice -->
+	<ReplimatMeals_F_JollofRice.label>졸로프 라이스</ReplimatMeals_F_JollofRice.label>
+
+	<!-- EN: An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat. -->
+	<ReplimatMeals_F_JollofRice.description>올드 어스 서아프리카 전역에서 인기가 있는 향긋한 냄비밥과 토마토 스튜 요리로, 다양한 야채와 고기를 곁들이는 경우가 많아요.</ReplimatMeals_F_JollofRice.description>
+
+	<!-- EN: käsespätzle -->
+	<ReplimatMeals_F_Kasespatzle.label>케세스펫츨</ReplimatMeals_F_Kasespatzle.label>
+
+	<!-- EN: European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth. -->
+	<ReplimatMeals_F_Kasespatzle.description>치즈를 얹어 캐서롤처럼 구운 유럽식 달걀국수로, 독일과 오스트리아에서 전통적으로 올드어스에서 즐겨 먹는 음식입니다.</ReplimatMeals_F_Kasespatzle.description>
+
+	<!-- EN: katsu curry -->
+	<ReplimatMeals_F_KatsuCurry.label>카츠 카레</ReplimatMeals_F_KatsuCurry.label>
+
+	<!-- EN: A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad. -->
+	<ReplimatMeals_F_KatsuCurry.description>빵가루를 입혀 튀긴 돈가스에 밥과 카레를 곁들인 일본식 돈가스입니다. 상큼한 채 썬 양배추 샐러드와 함께 제공됩니다.</ReplimatMeals_F_KatsuCurry.description>
+
+	<!-- EN: koshari -->
+	<ReplimatMeals_F_Koshari.label>코샤리</ReplimatMeals_F_Koshari.label>
+
+	<!-- EN: A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth. -->
+	<ReplimatMeals_F_Koshari.description>고대 이집트에서 길거리 음식으로 인기 있는 쌀, 파스타, 렌틸콩을 섞어 만든 채식 요리입니다.</ReplimatMeals_F_Koshari.description>
+
+	<!-- EN: loco moco -->
+	<ReplimatMeals_F_LocoMoco.label>로코모코</ReplimatMeals_F_LocoMoco.label>
+
+	<!-- EN: A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s. -->
+	<ReplimatMeals_F_LocoMoco.description>1940년대 후반 하와이에서 시작된 햄버거 패티, 달걀 프라이, 갈색 그레이비를 얹은 넉넉한 양의 흰 쌀밥이 특징입니다.</ReplimatMeals_F_LocoMoco.description>
+
+	<!-- EN: nachos -->
+	<ReplimatMeals_F_Nachos.label>나초스</ReplimatMeals_F_Nachos.label>
+
+	<!-- EN: An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce. -->
+	<ReplimatMeals_F_Nachos.description>볶은 콩, 갈은 고기, 잘게 썬 치즈, 핫소스로 덮은 또띠아 칩으로 구성된 올드 어스 텍스 멕스 요리입니다.</ReplimatMeals_F_Nachos.description>
+
+	<!-- EN: omurice -->
+	<ReplimatMeals_F_Omurice.label>오므라이스</ReplimatMeals_F_Omurice.label>
+
+	<!-- EN: Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup. -->
+	<ReplimatMeals_F_Omurice.description>닭고기 볶음밥에 얇은 달걀 오믈렛을 얹은 요리로, 일본에서 올드어스에서 인기가 높습니다. 종종 케첩으로 쓴 동기 부여 메시지를 얹기도 합니다.</ReplimatMeals_F_Omurice.description>
+
+	<!-- EN: paella -->
+	<ReplimatMeals_F_Paella.label>파에야</ReplimatMeals_F_Paella.label>
+
+	<!-- EN: A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables. -->
+	<ReplimatMeals_F_Paella.description>스페인 발렌시아 지방에서 유래한 쌀 요리로, 얕은 팬에 사프란과 닭 육수를 넣고 각종 고기, 해산물, 야채를 얹어 먹는 요리입니다.</ReplimatMeals_F_Paella.description>
+
+	<!-- EN: phở -->
+	<ReplimatMeals_F_Pho.label>퍼</ReplimatMeals_F_Pho.label>
+
+	<!-- EN: Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam. -->
+	<ReplimatMeals_F_Pho.description>쌀국수, 고기, 야채를 맑은 국물에 넣어 베트남 전통 방식으로 만든 베트남식 쌀국수입니다.</ReplimatMeals_F_Pho.description>
+
+	<!-- EN: ramen -->
+	<ReplimatMeals_F_Ramen.label>라멘</ReplimatMeals_F_Ramen.label>
+
+	<!-- EN: A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings. -->
+	<ReplimatMeals_F_Ramen.description>돼지 뼈 육수에 밀면을 넣고 다양한 토핑을 얹어 먹는 동아시아 전통의 일본 요리로 인기가 높습니다.</ReplimatMeals_F_Ramen.description>
+
+	<!-- EN: ratatouille -->
+	<ReplimatMeals_F_Ratatouille.label>라따뚜이</ReplimatMeals_F_Ratatouille.label>
+
+	<!-- EN: A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form. -->
+	<ReplimatMeals_F_Ratatouille.description>구대륙 프랑스에서 유래한 전통 야채 스튜를 콩피트 바이알디 형태로 예술적으로 배열한 요리입니다.</ReplimatMeals_F_Ratatouille.description>
+
+	<!-- EN: shepherd's pie -->
+	<ReplimatMeals_F_ShepherdsPie.label>셰퍼드 파이</ReplimatMeals_F_ShepherdsPie.label>
+
+	<!-- EN: A minced meat pie topped with mash potato, originating from Britain and France on Old Earth. -->
+	<ReplimatMeals_F_ShepherdsPie.description>구대륙의 영국과 프랑스에서 유래한 다진 고기 파이에 매쉬 포테이토를 얹은 요리입니다.</ReplimatMeals_F_ShepherdsPie.description>
+
+	<!-- EN: tagliatelle al ragù -->
+	<ReplimatMeals_F_TagliatelleAlRagu.label>딸리야뗄레 알 라구</ReplimatMeals_F_TagliatelleAlRagu.label>
+
+	<!-- EN: Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese. -->
+	<ReplimatMeals_F_TagliatelleAlRagu.description>천천히 익힌 미트 소스를 듬뿍 얹은 플랫 리본 파스타. 이 요리는 일반화된 스파게티 볼로네제의 정통 올드 어스 이탈리아 버전으로 널리 알려져 있습니다.</ReplimatMeals_F_TagliatelleAlRagu.description>
+
+	<!-- EN: tenzaru soba -->
+	<ReplimatMeals_F_TenzaruSoba.label>텐자루 소바</ReplimatMeals_F_TenzaruSoba.label>
+
+	<!-- EN: Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth. -->
+	<ReplimatMeals_F_TenzaruSoba.description>대나무 쟁반에 차게 식힌 메밀국수와 디핑 소스, 야채와 해산물을 듬뿍 얹은 튀김을 함께 제공합니다. 일본에서 여름철에 주로 먹는 음식입니다.</ReplimatMeals_F_TenzaruSoba.description>
+
+	<!-- EN: full English breakfast -->
+	<ReplimatMeals_L_FullEnglishBreakfast.label>풀 잉글리시 브랙퍼스트</ReplimatMeals_L_FullEnglishBreakfast.label>
+
+	<!-- EN: A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans. -->
+	<ReplimatMeals_L_FullEnglishBreakfast.description>베이컨, 소시지, 계란, 버섯, 토마토, 토스트, 구운 콩으로 구성된 영국령 올드 어스 섬에서 인기 있는 푸짐한 아침 식사 요리입니다.</ReplimatMeals_L_FullEnglishBreakfast.description>
+
+	<!-- EN: gumbo -->
+	<ReplimatMeals_L_Gumbo.label>검보</ReplimatMeals_L_Gumbo.label>
+
+	<!-- EN: A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice. -->
+	<ReplimatMeals_L_Gumbo.description>고기, 조개류, 야채를 오크라로 걸쭉하게 끓인 풍성한 크리올 스튜로 아프리카, 프랑스, 스페인, 아메리카 원주민 요리가 융합된 퓨전 요리입니다. 넉넉한 양의 밥과 함께 제공됩니다.</ReplimatMeals_L_Gumbo.description>
+
+	<!-- EN: Hāngī -->
+	<ReplimatMeals_L_Hangi.label>항이</ReplimatMeals_L_Hangi.label>
+
+	<!-- EN: An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones. -->
+	<ReplimatMeals_L_Hangi.description>전통적으로 뜨거운 돌로 데운 흙 구덩이에 묻혀 조리한 고기와 뿌리 채소로 만든 뉴질랜드 마오리 전통 음식입니다.</ReplimatMeals_L_Hangi.description>
+
+	<!-- EN: kaiseki -->
+	<ReplimatMeals_L_Kaiseki.label>가이세키</ReplimatMeals_L_Kaiseki.label>
+
+	<!-- EN: A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients. -->
+	<ReplimatMeals_L_Kaiseki.description>제철 식재료를 엄선하고 예술적으로 배열한 전통 일본식 멀티 코스 요리입니다.</ReplimatMeals_L_Kaiseki.description>
+
+	<!-- EN: Lobster Thermidor -->
+	<ReplimatMeals_L_LobsterThermidor.label>랍스터 테르미도르</ReplimatMeals_L_LobsterThermidor.label>
+
+	<!-- EN: A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes. -->
+	<ReplimatMeals_L_LobsterThermidor.description>랍스터 고기를 진한 와인과 치즈 소스로 조리한 후 껍질에 다시 채워 노릇하게 구워낸 고전적인 올드 어스 프렌치 요리입니다. 찐 그린빈과 구운 감자와 함께 제공됩니다.</ReplimatMeals_L_LobsterThermidor.description>
+
+	<!-- EN: Sunday roast -->
+	<ReplimatMeals_L_SundayRoast.label>선데이 로스트</ReplimatMeals_L_SundayRoast.label>
+
+	<!-- EN: A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy. -->
+	<ReplimatMeals_L_SundayRoast.description>구운 고기, 감자 및 기타 야채를 그레이비를 곁들인 요크셔 푸딩과 함께 즐기는 전통적인 영국식 올드 어스 요리입니다.</ReplimatMeals_L_SundayRoast.description>
+
+</LanguageData>

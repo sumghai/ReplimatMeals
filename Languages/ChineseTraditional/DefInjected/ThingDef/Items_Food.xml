@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: borscht -->
+	<ReplimatMeals_S_Borscht.label>羅宋湯</ReplimatMeals_S_Borscht.label>
+	
+	<!-- EN: An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth. -->
+	<ReplimatMeals_S_Borscht.description>一種用紅甜菜根和肉高湯製作的東歐酸湯，源自老地球上的烏克蘭。</ReplimatMeals_S_Borscht.description>
+	
+	<!-- EN: Caesar salad -->
+	<ReplimatMeals_S_CaesarSalad.label>凱薩沙拉</ReplimatMeals_S_CaesarSalad.label>
+
+	<!-- EN: A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_CaesarSalad.description>由萵苣、麵包丁和沙拉醬組成的簡單拌沙拉。儘管名字叫凱薩沙拉，但實際上它起源於老地球上的墨西哥下加利福尼亞州。</ReplimatMeals_S_CaesarSalad.description>
+
+	<!-- EN: Cuban sandwich -->
+	<ReplimatMeals_S_CubanSandwich.label>古巴三明治</ReplimatMeals_S_CubanSandwich.label>
+
+	<!-- EN: A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving. -->
+	<ReplimatMeals_S_CubanSandwich.description>經典火腿起司三明治的變體，由古巴移民在20世紀初引入老地球上的邁阿密和坦帕。這種三明治使用古巴長麵包製作，食用前對角線切開。</ReplimatMeals_S_CubanSandwich.description>
+
+	<!-- EN: currywurst -->
+	<ReplimatMeals_S_Currywurst.label>德國咖哩香腸</ReplimatMeals_S_Currywurst.label>
+
+	<!-- EN: Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries. -->
+	<ReplimatMeals_S_Currywurst.description>蒸炸豬肉香腸切成一口大小，裹上咖哩番茄醬，20世紀40年代末在老地球上的德國作為快餐流行起來。配上厚切薯條。</ReplimatMeals_S_Currywurst.description>
+
+	<!-- EN: dumplings -->
+	<ReplimatMeals_S_Dumplings.label>水餃</ReplimatMeals_S_Dumplings.label>
+
+	<!-- EN: Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity. -->
+	<ReplimatMeals_S_Dumplings.description>用薄薄的小麥麵團將肉末和蔬菜裹成小包，煮熟後再食用。老地球上的台灣、香港和第四特別行政區自古以來就常將其作為主食或簡餐食用。</ReplimatMeals_S_Dumplings.description>
+
+	<!-- EN: fish n' chips -->
+	<ReplimatMeals_S_FishAndChips.label>炸魚薯條</ReplimatMeals_S_FishAndChips.label>
+
+	<!-- EN: Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth. -->
+	<ReplimatMeals_S_FishAndChips.description>炸魚配薯條，是英聯邦和老地球上其他英語國家流行的外帶食品。</ReplimatMeals_S_FishAndChips.description>
+
+	<!-- EN: gyros -->
+	<ReplimatMeals_S_Gyros.label>希臘旋轉烤肉</ReplimatMeals_S_Gyros.label>
+
+	<!-- EN: Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth. -->
+	<ReplimatMeals_S_Gyros.description>用直立式旋轉烤爐烹調的肉類，用皮塔餅包裹番茄和洋蔥，在老地球上的希臘很受歡迎。</ReplimatMeals_S_Gyros.description>
+
+	<!-- EN: kakigori -->
+	<ReplimatMeals_S_Kakigori.label>刨冰</ReplimatMeals_S_Kakigori.label>
+
+	<!-- EN: An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer. -->
+	<ReplimatMeals_S_Kakigori.description>一種老地球上的日式刨冰甜點，上面澆有各種糖漿和甜味劑，在夏天大受歡迎。</ReplimatMeals_S_Kakigori.description>
+
+	<!-- EN: Margherita pizza -->
+	<ReplimatMeals_S_MargheritaPizza.label>瑪格麗塔比薩</ReplimatMeals_S_MargheritaPizza.label>
+
+	<!-- EN: Slices of rustic pizza topped with chopped tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth. -->
+	<ReplimatMeals_S_MargheritaPizza.description>源自老地球上義大利的鄉村披薩片，上面放著切碎的番茄、馬蘇里拉起司和羅勒花。</ReplimatMeals_S_MargheritaPizza.description>
+
+	<!-- EN: minced pork rice -->
+	<ReplimatMeals_S_MincedPorkRice.label>滷肉飯</ReplimatMeals_S_MincedPorkRice.label>
+
+	<!-- EN: A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth. -->
+	<ReplimatMeals_S_MincedPorkRice.description>一碗飯上淋上豬肉末和一片醃菜，源自老地球上的台灣。</ReplimatMeals_S_MincedPorkRice.description>
+
+	<!-- EN: pancakes -->
+	<ReplimatMeals_S_Pancakes.label>鬆餅</ReplimatMeals_S_Pancakes.label>
+
+	<!-- EN: A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada. -->
+	<ReplimatMeals_S_Pancakes.description>厚厚一疊酪乳煎餅，淋上來自老地球上加拿大的楓糖漿。</ReplimatMeals_S_Pancakes.description>
+
+	<!-- EN: pastrami on rye -->
+	<ReplimatMeals_S_PastramiOnRye.label>黑麦熏牛肉三明治</ReplimatMeals_S_PastramiOnRye.label>
+
+	<!-- EN: A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s. -->
+	<ReplimatMeals_S_PastramiOnRye.description>一種用黑麥麵包夾著燻牛肉片的三明治，19世紀末由老地球上的猶太移民推廣到紐約。</ReplimatMeals_S_PastramiOnRye.description>
+
+	<!-- EN: pork buns -->
+	<ReplimatMeals_S_PorkBuns.label>包子</ReplimatMeals_S_PorkBuns.label>
+
+	<!-- EN: Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_PorkBuns.description>用酵母發酵過的麵團包裹豬肉末再蒸熟，在老地球上的台灣、香港、日本和第四特別行政區常見的小吃。</ReplimatMeals_S_PorkBuns.description>
+
+	<!-- EN: poutine -->
+	<ReplimatMeals_S_Poutine.label>蓋澆薯條</ReplimatMeals_S_Poutine.label>
+
+	<!-- EN: A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth. -->
+	<ReplimatMeals_S_Poutine.description>源自老地球上加拿大魁北克地區的一種油膩菜餚，由薯條和起司凝乳製成，上面澆有棕色肉汁。</ReplimatMeals_S_Poutine.description>
+
+	<!-- EN: sachertorte -->
+	<ReplimatMeals_S_Sachertorte.label>薩赫蛋糕</ReplimatMeals_S_Sachertorte.label>
+
+	<!-- EN: A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth. -->
+	<ReplimatMeals_S_Sachertorte.description>一片杏桃醬餡巧克力海綿蛋糕和黑巧克力糖衣，是在老地球上奧地利薩赫酒店繼承者的許可下複製的。</ReplimatMeals_S_Sachertorte.description>
+
+	<!-- EN: shrimp tacos -->
+	<ReplimatMeals_S_ShrimpTacos.label>蝦肉塔可餅</ReplimatMeals_S_ShrimpTacos.label>
+
+	<!-- EN: Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_ShrimpTacos.description>手掌大小的小玉米餅，裡面填滿炸蝦、生菜和酪梨莎莎醬，源自老地球上的墨西哥下加利福尼亞州。</ReplimatMeals_S_ShrimpTacos.description>
+
+	<!-- EN: takoyaki -->
+	<ReplimatMeals_S_Takoyaki.label>章魚燒</ReplimatMeals_S_Takoyaki.label>
+
+	<!-- EN: A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings. -->
+	<ReplimatMeals_S_Takoyaki.description>老地球上日本的一種流行小吃，將章魚肉丁煮成厚厚的丸子。食用時淋上伍斯特醬、蛋黃醬、綠紫菜和乾鰹魚屑。</ReplimatMeals_S_Takoyaki.description>
+
+	<!-- EN: tiramisu -->
+	<ReplimatMeals_S_Tiramisu.label>提拉米蘇</ReplimatMeals_S_Tiramisu.label>
+
+	<!-- EN: A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth. -->
+	<ReplimatMeals_S_Tiramisu.description>由咖啡浸泡過的海綿蛋糕餅乾、奶油和起司組成的多層甜點，來自老地球上的義大利。</ReplimatMeals_S_Tiramisu.description>
+
+	<!-- EN: Weisswurst -->
+	<ReplimatMeals_S_Weisswurst.label>巴伐利亞白香腸</ReplimatMeals_S_Weisswurst.label>
+
+	<!-- EN: A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels. -->
+	<ReplimatMeals_S_Weisswurst.description>一種老地球上巴伐利亞的傳統香腸，由小牛肉碎和豬背熏肉製成。通常搭配甜芥末和軟椒鹽脆餅。</ReplimatMeals_S_Weisswurst.description>
+
+	<!-- EN: zongzi -->
+	<ReplimatMeals_S_Zongzi.label>粽子</ReplimatMeals_S_Zongzi.label>
+
+	<!-- EN: Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_Zongzi.description>將糯米、肉和其他美味餡料包在竹葉裡，然後蒸煮或煮沸。在老地球上的台灣、香港、馬來西亞、新加坡和第四特別行政區常見的簡餐。</ReplimatMeals_S_Zongzi.description>
+
+	<!-- EN: beef noodle soup -->
+	<ReplimatMeals_F_BeefNoodleSoup.label>牛肉麵</ReplimatMeals_F_BeefNoodleSoup.label>
+
+	<!-- EN: Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_F_BeefNoodleSoup.description>用牛肉湯燴牛肉、蔬菜和麵條，常見於老地球上的台灣、香港和第四特別行政區的路邊攤。</ReplimatMeals_F_BeefNoodleSoup.description>
+
+	<!-- EN: beef rouladen -->
+	<ReplimatMeals_F_BeefRouladen.label>德國牛肉捲</ReplimatMeals_F_BeefRouladen.label>
+
+	<!-- EN: A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings. -->
+	<ReplimatMeals_F_BeefRouladen.description>一道傳統的老地球上的德國菜餚，由薄而嫩的牛扒卷上熏肉、芥末和醃黃瓜等餡料，然後在濃鬱的肉汁中煨製而成。佐以紅燒高麗菜和德式馬鈴薯餃。</ReplimatMeals_F_BeefRouladen.description>
+
+	<!-- EN: bunny chow -->
+	<ReplimatMeals_F_BunnyChow.label>南非咖哩麵包</ReplimatMeals_F_BunnyChow.label>
+
+	<!-- EN: A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad. -->
+	<ReplimatMeals_F_BunnyChow.description>20世紀40年代，印度移民在老地球上的南非流行一種空心白麵包，裡面填滿咖哩羊肉。搭配沙拉食用。</ReplimatMeals_F_BunnyChow.description>
+
+	<!-- EN: chaliapin steak -->
+	<ReplimatMeals_F_ChaliapinSteak.label>夏里亞賓牛排</ReplimatMeals_F_ChaliapinSteak.label>
+
+	<!-- EN: A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache. -->
+	<ReplimatMeals_F_ChaliapinSteak.description>一種用洋蔥嫩化的牛肉排，配上水芹和炒馬鈴薯。最初是20世紀30年代中期在老地球上的日本發明的，當時是為了招待一位牙疼的俄羅斯歌劇演員。</ReplimatMeals_F_ChaliapinSteak.description>
+
+	<!-- EN: chicken and waffles -->
+	<ReplimatMeals_F_ChickenAndWaffles.label>炸雞華夫餅</ReplimatMeals_F_ChickenAndWaffles.label>
+
+	<!-- EN: Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth. -->
+	<ReplimatMeals_F_ChickenAndWaffles.description>炸雞配華夫餅，這道賓州荷蘭菜在老地球上的美國南部流行開來。</ReplimatMeals_F_ChickenAndWaffles.description>
+
+	<!-- EN: chicken Kyiv -->
+	<ReplimatMeals_F_ChickenKyiv.label>基輔雞</ReplimatMeals_F_ChickenKyiv.label>
+
+	<!-- EN: Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes. -->
+	<ReplimatMeals_F_ChickenKyiv.description>在俄羅斯、烏克蘭和老地球上其他前東歐國家流行的奶油香草餡裹屑雞排。配馬鈴薯泥。</ReplimatMeals_F_ChickenKyiv.description>
+
+	<!-- EN: chicken pot pie -->
+	<ReplimatMeals_F_ChickenPotPie.label>雞肉鍋派</ReplimatMeals_F_ChickenPotPie.label>
+
+	<!-- EN: A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenPotPie.description>源自老地球上英國的一種肉餡餅，餅皮鬆軟，配上奶油雞肉和蘑菇餡。</ReplimatMeals_F_ChickenPotPie.description>
+
+	<!-- EN: chicken tikka masala -->
+	<ReplimatMeals_F_ChickenTikkaMasala.label>香料烤雞咖哩</ReplimatMeals_F_ChickenTikkaMasala.label>
+
+	<!-- EN: Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenTikkaMasala.description>大塊的雞肉用香料和酸奶醃製，烤熟後淋上奶油、香料番茄醬，由老地球上的英國印度移民推廣。</ReplimatMeals_F_ChickenTikkaMasala.description>
+
+	<!-- EN: jollof rice -->
+	<ReplimatMeals_F_JollofRice.label>加羅夫飯</ReplimatMeals_F_JollofRice.label>
+
+	<!-- EN: An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat. -->
+	<ReplimatMeals_F_JollofRice.description>一種香氣撲鼻的單鍋米飯番茄燉菜，流行於老地球上的整個西非地區，通常搭配各種蔬菜和肉類。</ReplimatMeals_F_JollofRice.description>
+
+	<!-- EN: käsespätzle -->
+	<ReplimatMeals_F_Kasespatzle.label>乳酪麵</ReplimatMeals_F_Kasespatzle.label>
+
+	<!-- EN: European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth. -->
+	<ReplimatMeals_F_Kasespatzle.description>歐洲雞蛋麵條鋪上乳酪，像砂鍋一樣烤製而成，是老地球上德國和奧地利的傳統美食。</ReplimatMeals_F_Kasespatzle.description>
+
+	<!-- EN: katsu curry -->
+	<ReplimatMeals_F_KatsuCurry.label>豬排咖哩飯</ReplimatMeals_F_KatsuCurry.label>
+
+	<!-- EN: A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad. -->
+	<ReplimatMeals_F_KatsuCurry.description>炸豬排配米飯和咖哩，在老地球上的日本很受歡迎。配上清爽的捲心菜絲沙拉。</ReplimatMeals_F_KatsuCurry.description>
+
+	<!-- EN: koshari -->
+	<ReplimatMeals_F_Koshari.label>庫莎麗</ReplimatMeals_F_Koshari.label>
+
+	<!-- EN: A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth. -->
+	<ReplimatMeals_F_Koshari.description>一種混合米飯、麵食和扁豆的素菜，在老地球上的埃及作為街頭小吃廣受歡迎。</ReplimatMeals_F_Koshari.description>
+
+	<!-- EN: loco moco -->
+	<ReplimatMeals_F_LocoMoco.label>洛可摩可</ReplimatMeals_F_LocoMoco.label>
+
+	<!-- EN: A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s. -->
+	<ReplimatMeals_F_LocoMoco.description>白米飯上放上漢堡肉餅、煎蛋和棕色肉汁，分量十足，起源於20世紀40年代末的老地球上的夏威夷。</ReplimatMeals_F_LocoMoco.description>
+
+	<!-- EN: nachos -->
+	<ReplimatMeals_F_Nachos.label>烤起司辣味玉米片</ReplimatMeals_F_Nachos.label>
+
+	<!-- EN: An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce. -->
+	<ReplimatMeals_F_Nachos.description>一種老地球上的德州墨西哥菜，由玉米片裹上炒豆、肉末、起司絲和辣醬組成。</ReplimatMeals_F_Nachos.description>
+
+	<!-- EN: omurice -->
+	<ReplimatMeals_F_Omurice.label>蛋包飯</ReplimatMeals_F_Omurice.label>
+
+	<!-- EN: Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup. -->
+	<ReplimatMeals_F_Omurice.description>雞肉炒飯上蓋著薄薄的雞蛋煎餅，在老地球上的日本很受歡迎。上面通常會用番茄醬寫激勵人心的話。</ReplimatMeals_F_Omurice.description>
+
+	<!-- EN: paella -->
+	<ReplimatMeals_F_Paella.label>海鮮飯</ReplimatMeals_F_Paella.label>
+
+	<!-- EN: A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables. -->
+	<ReplimatMeals_F_Paella.description>一種源自老地球上西班牙瓦倫西亞的米飯，用藏紅花和雞湯在淺鍋上烹製，淋上各種肉類、海鮮和蔬菜。</ReplimatMeals_F_Paella.description>
+
+	<!-- EN: phở -->
+	<ReplimatMeals_F_Pho.label>越南粉</ReplimatMeals_F_Pho.label>
+
+	<!-- EN: Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam. -->
+	<ReplimatMeals_F_Pho.description>米粉、肉和蔬菜配清湯，源自老地球上的越南。</ReplimatMeals_F_Pho.description>
+
+	<!-- EN: ramen -->
+	<ReplimatMeals_F_Ramen.label>拉麵</ReplimatMeals_F_Ramen.label>
+
+	<!-- EN: A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings. -->
+	<ReplimatMeals_F_Ramen.description>源自於老地球上東亞的一種極受歡迎的日本料理，由豬骨湯中的小麥麵條和各種配料組成。</ReplimatMeals_F_Ramen.description>
+
+	<!-- EN: ratatouille -->
+	<ReplimatMeals_F_Ratatouille.label>普羅旺斯燉菜</ReplimatMeals_F_Ratatouille.label>
+
+	<!-- EN: A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form. -->
+	<ReplimatMeals_F_Ratatouille.description>一種源自老地球上法國的傳統燉菜，以比亞爾迪油封形式排列。</ReplimatMeals_F_Ratatouille.description>
+
+	<!-- EN: shepherd's pie -->
+	<ReplimatMeals_F_ShepherdsPie.label>牧羊人派</ReplimatMeals_F_ShepherdsPie.label>
+
+	<!-- EN: A minced meat pie topped with mash potato, originating from Britain and France on Old Earth. -->
+	<ReplimatMeals_F_ShepherdsPie.description>源自老地球上的英國和法國，是一種以馬鈴薯泥為餡的碎肉餡餅。</ReplimatMeals_F_ShepherdsPie.description>
+
+	<!-- EN: tagliatelle al ragù -->
+	<ReplimatMeals_F_TagliatelleAlRagu.label>波隆那肉醬麵</ReplimatMeals_F_TagliatelleAlRagu.label>
+
+	<!-- EN: Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese. -->
+	<ReplimatMeals_F_TagliatelleAlRagu.description>扁平的帶狀義大利麵上淋上以慢火烹調的肉醬。這道菜被廣泛認為是正宗傳統的老地球上的意大利版肉醬麵。</ReplimatMeals_F_TagliatelleAlRagu.description>
+
+	<!-- EN: tenzaru soba -->
+	<ReplimatMeals_F_TenzaruSoba.label>天竺蕎麥麵</ReplimatMeals_F_TenzaruSoba.label>
+
+	<!-- EN: Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth. -->
+	<ReplimatMeals_F_TenzaruSoba.description>冰鎮蕎麥麵放在竹盤上，配上沾醬和天婦羅蔬菜及海鮮。老地球上的日本人夏天常吃。</ReplimatMeals_F_TenzaruSoba.description>
+
+	<!-- EN: full English breakfast -->
+	<ReplimatMeals_L_FullEnglishBreakfast.label>英式早餐</ReplimatMeals_L_FullEnglishBreakfast.label>
+
+	<!-- EN: A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans. -->
+	<ReplimatMeals_L_FullEnglishBreakfast.description>老地球上英倫三島流行的豐盛的熟食早餐，由培根、香腸、雞蛋、蘑菇、番茄、烤麵包和烤豆組成。</ReplimatMeals_L_FullEnglishBreakfast.description>
+
+	<!-- EN: gumbo -->
+	<ReplimatMeals_L_Gumbo.label>秋葵濃湯</ReplimatMeals_L_Gumbo.label>
+
+	<!-- EN: A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice. -->
+	<ReplimatMeals_L_Gumbo.description>一道豐盛的克里奧爾式燉菜，肉類、貝類和蔬菜與秋葵一起燉稠，代表了老地球上非洲、法國、西班牙和美洲原住民美食的融合。配上一份份量十足的米飯。</ReplimatMeals_L_Gumbo.description>
+
+	<!-- EN: Hāngī -->
+	<ReplimatMeals_L_Hangi.label>杭伊</ReplimatMeals_L_Hangi.label>
+
+	<!-- EN: An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones. -->
+	<ReplimatMeals_L_Hangi.description>舊地球上的紐西蘭毛利人盛宴，包括肉類和根菜，傳統上是埋在用熱石頭加熱的土坑中烹飪。</ReplimatMeals_L_Hangi.description>
+
+	<!-- EN: kaiseki -->
+	<ReplimatMeals_L_Kaiseki.label>懷石料理</ReplimatMeals_L_Kaiseki.label>
+
+	<!-- EN: A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients. -->
+	<ReplimatMeals_L_Kaiseki.description>老地球上的日本傳統多道菜餚盛宴，由精心挑選和藝術性安排的時令食材組成。</ReplimatMeals_L_Kaiseki.description>
+
+	<!-- EN: Lobster Thermidor -->
+	<ReplimatMeals_L_LobsterThermidor.label>熱月龍蝦</ReplimatMeals_L_LobsterThermidor.label>
+
+	<!-- EN: A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes. -->
+	<ReplimatMeals_L_LobsterThermidor.description>一道經典的老地球上的法式菜餚，由龍蝦肉在濃鬱的葡萄酒和奶酪醬汁中烹製而成，然後塞回殼裡煎至完美。配以蒸青豆和烤馬鈴薯。</ReplimatMeals_L_LobsterThermidor.description>
+
+	<!-- EN: Sunday roast -->
+	<ReplimatMeals_L_SundayRoast.label>週日烤肉</ReplimatMeals_L_SundayRoast.label>
+
+	<!-- EN: A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy. -->
+	<ReplimatMeals_L_SundayRoast.description>老地球上的傳統英式盛宴，包括烤肉、馬鈴薯和其他蔬菜，佐以約克郡布丁和肉汁。</ReplimatMeals_L_SundayRoast.description>
+
+</LanguageData>
