@@ -221,7 +221,7 @@
 	<ThingDef ParentName="ReplimatMealSimpleBase">
 		<defName>ReplimatMeals_S_MargheritaPizza</defName>
 		<label>Margherita pizza</label>
-		<description>Slices of rustic pizza topped with chopped tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth.</description>
+		<description>Slices of rustic pizza topped with crushed tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth.</description>
 		<graphicData>
 			<texPath>Things/Item/Meal/ReplimatMeals_S_MargheritaPizza</texPath> <!-- todo - Placeholder -->
 		</graphicData>
