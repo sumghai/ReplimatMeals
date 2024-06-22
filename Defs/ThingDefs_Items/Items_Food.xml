@@ -830,7 +830,7 @@
 		<label>full English breakfast</label>
 		<description>A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_FullEnglishBreakfast</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.636</Mass>
@@ -848,7 +848,7 @@
 		<label>gumbo</label>
 		<description>A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Gumbo</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.58</Mass>
@@ -866,7 +866,7 @@
 		<label>Hāngī</label>
 		<description>An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Hangi</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.65</Mass>
@@ -884,7 +884,7 @@
 		<label>kaiseki</label>
 		<description>A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Kaiseki</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.375</Mass>
@@ -900,7 +900,7 @@
 		<label>Lobster Thermidor</label>
 		<description>A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_LobsterThermidor</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.454</Mass>
@@ -918,7 +918,7 @@
 		<label>Sunday roast</label>
 		<description>A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_SundayRoast</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.572</Mass>
