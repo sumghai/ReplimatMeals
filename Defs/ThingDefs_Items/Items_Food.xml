@@ -81,7 +81,7 @@
 		<label>borscht</label>
 		<description>An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Borscht</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.245</Mass>
@@ -99,7 +99,7 @@
 		<label>Caesar salad</label>
 		<description>A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_CaesarSalad</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.2</Mass>
@@ -116,7 +116,7 @@
 		<label>Cuban sandwich</label>
 		<description>A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_CubanSandwich</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -134,7 +134,7 @@
 		<label>currywurst</label>
 		<description>Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Currywurst</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -152,7 +152,7 @@
 		<label>dumplings</label>
 		<description>Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Dumplings</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.27</Mass>
@@ -170,7 +170,7 @@
 		<label>fish n' chips</label>
 		<description>Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_FishAndChips</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.354</Mass>
@@ -188,7 +188,7 @@
 		<label>gyros</label>
 		<description>Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Gyros</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.36</Mass>
@@ -206,7 +206,7 @@
 		<label>kakigori</label>
 		<description>An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Kakigori</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.06</Mass>
@@ -223,7 +223,7 @@
 		<label>Margherita pizza</label>
 		<description>Slices of rustic pizza topped with chopped tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_MargheritaPizza</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.204</Mass>
@@ -239,7 +239,7 @@
 		<label>minced pork rice</label>
 		<description>A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_MincedPorkRice</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.199</Mass>
@@ -257,7 +257,7 @@
 		<label>pancakes</label>
 		<description>A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Pancakes</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.152</Mass>
@@ -273,7 +273,7 @@
 		<label>pastrami on rye</label>
 		<description>A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_PastramiOnRye</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.252</Mass>
@@ -291,7 +291,7 @@
 		<label>pork buns</label>
 		<description>Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_PorkBuns</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -309,7 +309,7 @@
 		<label>poutine</label>
 		<description>A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Poutine</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
@@ -327,7 +327,7 @@
 		<label>sachertorte</label>
 		<description>A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Sachertorte</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.282</Mass>
@@ -343,7 +343,7 @@
 		<label>shrimp tacos</label>
 		<description>Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_ShrimpTacos</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.246</Mass>
@@ -361,7 +361,7 @@
 		<label>takoyaki</label>
 		<description>A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Takoyaki</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.264</Mass>
@@ -379,7 +379,7 @@
 		<label>tiramisu</label>
 		<description>A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Tiramisu</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.145</Mass>
@@ -396,7 +396,7 @@
 		<label>Weisswurst</label>
 		<description>A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Weisswurst</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.341</Mass>
@@ -414,7 +414,7 @@
 		<label>zongzi</label>
 		<description>Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Zongzi</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
