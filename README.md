@@ -1,5 +1,5 @@
 # Replimat Meals
-Optional add-on module for the Replimat mod in RimWorld, which adds a variety of meal recipes from Old Earth. 
+Optional add-on for the Replimat mod in RimWorld, providing a selection of Old Earth meal recipes for your food replicators. 
 
 **Author:** sumghai
 
