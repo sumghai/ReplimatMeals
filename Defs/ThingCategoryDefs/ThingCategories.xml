@@ -5,7 +5,7 @@
 		<defName>ReplimatMeals_ThingCatMeals</defName>
 		<label>replicated meals</label>
 		<parent>FoodMeals</parent>
-		<iconPath>Things/Item/Meal/ReplimatMeals_Placeholder</iconPath> <!-- todo - add final graphics -->
+		<iconPath>UI/Icons/ThingCategories/ReplimatMeals</iconPath>
 	</ThingCategoryDef>
 	
 </Defs>
