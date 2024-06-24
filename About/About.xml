@@ -4,7 +4,7 @@
 	<name>Replimat Meals</name>
 	<author>sumghai</author>
 	<packageId>sumghai.ReplimatMeals</packageId>
-	<description>Optional add-on for the Replimat mod, which adds food replicator-exclusive meal recipes from Old Earth.\n\nv1.0</description>
+	<description>Optional add-on for the Replimat mod, providing a selection of Old Earth meal recipes for your food replicators.\n\nv1.0</description>
 	<url>https://github.com/sumghai/ReplimatMeals</url>
 	<supportedVersions>
 		<li>1.5</li>
