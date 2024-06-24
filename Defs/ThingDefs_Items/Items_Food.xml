@@ -434,7 +434,7 @@
 		<label>beef noodle soup</label>
 		<description>Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefNoodleSoup</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.492</Mass>
@@ -452,7 +452,7 @@
 		<label>beef rouladen</label>
 		<description>A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefRouladen</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.458</Mass>
@@ -470,7 +470,7 @@
 		<label>bunny chow</label>
 		<description>A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BunnyChow</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.466</Mass>
@@ -488,7 +488,7 @@
 		<label>chaliapin steak</label>
 		<description>A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChaliapinSteak</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.47</Mass>
@@ -506,7 +506,7 @@
 		<label>chicken and waffles</label>
 		<description>Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenAndWaffles</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.447</Mass>
@@ -524,7 +524,7 @@
 		<label>chicken Kyiv</label>
 		<description>Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenKyiv</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.458</Mass>
@@ -542,7 +542,7 @@
 		<label>chicken pot pie</label>
 		<description>A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenPotPie</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.375</Mass>
@@ -560,7 +560,7 @@
 		<label>chicken tikka masala</label>
 		<description>Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenTikkaMasala</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
@@ -578,7 +578,7 @@
 		<label>jollof rice</label>
 		<description>An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_JollofRice</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.33</Mass>
@@ -596,7 +596,7 @@
 		<label>käsespätzle</label>
 		<description>European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Kasespatzle</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.461</Mass>
@@ -612,7 +612,7 @@
 		<label>katsu curry</label>
 		<description>A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_KatsuCurry</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.328</Mass>
@@ -630,7 +630,7 @@
 		<label>koshari</label>
 		<description>A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Koshari</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.426</Mass>
@@ -648,7 +648,7 @@
 		<label>loco moco</label>
 		<description>A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_LocoMoco</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.497</Mass>
@@ -666,7 +666,7 @@
 		<label>nachos</label>
 		<description>An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Nachos</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.55</Mass>
@@ -684,7 +684,7 @@
 		<label>omurice</label>
 		<description>Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Omurice</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.39</Mass>
@@ -702,7 +702,7 @@
 		<label>paella</label>
 		<description>A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Paella</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.341</Mass>
@@ -720,7 +720,7 @@
 		<label>phở</label>
 		<description>Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Pho</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.51</Mass>
@@ -738,7 +738,7 @@
 		<label>ramen</label>
 		<description>A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Ramen</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.5</Mass>
@@ -756,7 +756,7 @@
 		<label>ratatouille</label>
 		<description>A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Ratatouille</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.428</Mass>
@@ -774,7 +774,7 @@
 		<label>shepherd's pie</label>
 		<description>A minced meat pie topped with mash potato, originating from Britain and France on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ShepherdsPie</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.467</Mass>
@@ -792,7 +792,7 @@
 		<label>tagliatelle al ragù</label>
 		<description>Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_TagliatelleAlRagu</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.46</Mass>
@@ -810,7 +810,7 @@
 		<label>tenzaru soba</label>
 		<description>Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_Placeholder</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_TenzaruSoba</texPath> <!-- todo - Placeholder -->
 		</graphicData>
 		<statBases>
 			<Mass>0.54</Mass>
