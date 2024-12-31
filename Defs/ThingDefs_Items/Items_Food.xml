@@ -68,7 +68,7 @@
 		</li>
 		
 		<li Class="CompProperties_Ingredients">
-			<noIngredientsFoodKind>NonMeat</noIngredientsFoodKind>	(For meals that always lacto-ovo vegetarian)
+			<noIngredientsFoodKind>NonMeat</noIngredientsFoodKind>	(For meals that are always lacto-ovo vegetarian)
 		</li>
 	
 	-->
@@ -81,7 +81,7 @@
 		<label>borscht</label>
 		<description>An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Borscht</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Borscht</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.245</Mass>
@@ -99,7 +99,7 @@
 		<label>Caesar salad</label>
 		<description>A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_CaesarSalad</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_CaesarSalad</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.2</Mass>
@@ -116,7 +116,7 @@
 		<label>Cuban sandwich</label>
 		<description>A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_CubanSandwich</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_CubanSandwich</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -134,7 +134,7 @@
 		<label>currywurst</label>
 		<description>Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Currywurst</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Currywurst</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -152,7 +152,7 @@
 		<label>dumplings</label>
 		<description>Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Dumplings</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Dumplings</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.27</Mass>
@@ -170,7 +170,7 @@
 		<label>fish n' chips</label>
 		<description>Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_FishAndChips</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_FishAndChips</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.354</Mass>
@@ -188,7 +188,7 @@
 		<label>gyros</label>
 		<description>Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Gyros</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Gyros</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.36</Mass>
@@ -206,7 +206,7 @@
 		<label>kakigori</label>
 		<description>An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Kakigori</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Kakigori</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.06</Mass>
@@ -223,7 +223,7 @@
 		<label>Margherita pizza</label>
 		<description>Slices of rustic pizza topped with crushed tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_MargheritaPizza</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_MargheritaPizza</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.204</Mass>
@@ -239,7 +239,7 @@
 		<label>minced pork rice</label>
 		<description>A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_MincedPorkRice</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_MincedPorkRice</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.199</Mass>
@@ -257,7 +257,7 @@
 		<label>pancakes</label>
 		<description>A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Pancakes</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Pancakes</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.152</Mass>
@@ -273,7 +273,7 @@
 		<label>pastrami on rye</label>
 		<description>A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_PastramiOnRye</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_PastramiOnRye</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.252</Mass>
@@ -291,7 +291,7 @@
 		<label>pork buns</label>
 		<description>Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_PorkBuns</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_PorkBuns</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.255</Mass>
@@ -309,7 +309,7 @@
 		<label>poutine</label>
 		<description>A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Poutine</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Poutine</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
@@ -327,7 +327,7 @@
 		<label>sachertorte</label>
 		<description>A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Sachertorte</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Sachertorte</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.282</Mass>
@@ -343,7 +343,7 @@
 		<label>shrimp tacos</label>
 		<description>Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_ShrimpTacos</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_ShrimpTacos</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.246</Mass>
@@ -361,7 +361,7 @@
 		<label>takoyaki</label>
 		<description>A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Takoyaki</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Takoyaki</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.264</Mass>
@@ -379,7 +379,7 @@
 		<label>tiramisu</label>
 		<description>A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Tiramisu</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Tiramisu</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.145</Mass>
@@ -396,7 +396,7 @@
 		<label>Weisswurst</label>
 		<description>A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Weisswurst</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Weisswurst</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.341</Mass>
@@ -414,7 +414,7 @@
 		<label>zongzi</label>
 		<description>Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_S_Zongzi</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_S_Zongzi</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
@@ -434,7 +434,7 @@
 		<label>beef noodle soup</label>
 		<description>Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefNoodleSoup</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefNoodleSoup</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.492</Mass>
@@ -452,7 +452,7 @@
 		<label>beef rouladen</label>
 		<description>A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefRouladen</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BeefRouladen</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.458</Mass>
@@ -470,7 +470,7 @@
 		<label>bunny chow</label>
 		<description>A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_BunnyChow</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_BunnyChow</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.466</Mass>
@@ -488,7 +488,7 @@
 		<label>chaliapin steak</label>
 		<description>A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ChaliapinSteak</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChaliapinSteak</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.47</Mass>
@@ -506,7 +506,7 @@
 		<label>chicken and waffles</label>
 		<description>Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenAndWaffles</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenAndWaffles</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.447</Mass>
@@ -524,7 +524,7 @@
 		<label>chicken Kyiv</label>
 		<description>Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenKyiv</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenKyiv</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.458</Mass>
@@ -542,7 +542,7 @@
 		<label>chicken pot pie</label>
 		<description>A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenPotPie</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenPotPie</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.375</Mass>
@@ -560,7 +560,7 @@
 		<label>chicken tikka masala</label>
 		<description>Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenTikkaMasala</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ChickenTikkaMasala</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.35</Mass>
@@ -578,7 +578,7 @@
 		<label>jollof rice</label>
 		<description>An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_JollofRice</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_JollofRice</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.33</Mass>
@@ -596,7 +596,7 @@
 		<label>käsespätzle</label>
 		<description>European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Kasespatzle</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Kasespatzle</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.461</Mass>
@@ -612,7 +612,7 @@
 		<label>katsu curry</label>
 		<description>A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_KatsuCurry</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_KatsuCurry</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.328</Mass>
@@ -630,7 +630,7 @@
 		<label>koshari</label>
 		<description>A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Koshari</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Koshari</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.426</Mass>
@@ -648,7 +648,7 @@
 		<label>loco moco</label>
 		<description>A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_LocoMoco</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_LocoMoco</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.497</Mass>
@@ -666,7 +666,7 @@
 		<label>nachos</label>
 		<description>An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Nachos</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Nachos</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.55</Mass>
@@ -684,7 +684,7 @@
 		<label>omurice</label>
 		<description>Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Omurice</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Omurice</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.39</Mass>
@@ -702,7 +702,7 @@
 		<label>paella</label>
 		<description>A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Paella</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Paella</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.341</Mass>
@@ -720,7 +720,7 @@
 		<label>phở</label>
 		<description>Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Pho</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Pho</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.51</Mass>
@@ -738,7 +738,7 @@
 		<label>ramen</label>
 		<description>A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Ramen</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Ramen</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.5</Mass>
@@ -756,7 +756,7 @@
 		<label>ratatouille</label>
 		<description>A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_Ratatouille</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_Ratatouille</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.428</Mass>
@@ -774,7 +774,7 @@
 		<label>shepherd's pie</label>
 		<description>A minced meat pie topped with mash potato, originating from Britain and France on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_ShepherdsPie</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_ShepherdsPie</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.467</Mass>
@@ -792,7 +792,7 @@
 		<label>tagliatelle al ragù</label>
 		<description>Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_TagliatelleAlRagu</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_TagliatelleAlRagu</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.46</Mass>
@@ -810,7 +810,7 @@
 		<label>tenzaru soba</label>
 		<description>Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_F_TenzaruSoba</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_F_TenzaruSoba</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.54</Mass>
@@ -830,7 +830,7 @@
 		<label>full English breakfast</label>
 		<description>A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_FullEnglishBreakfast</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_FullEnglishBreakfast</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.636</Mass>
@@ -848,7 +848,7 @@
 		<label>gumbo</label>
 		<description>A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_Gumbo</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Gumbo</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.58</Mass>
@@ -866,7 +866,7 @@
 		<label>Hāngī</label>
 		<description>An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_Hangi</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Hangi</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.65</Mass>
@@ -884,7 +884,7 @@
 		<label>kaiseki</label>
 		<description>A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_Kaiseki</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_Kaiseki</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.375</Mass>
@@ -900,7 +900,7 @@
 		<label>Lobster Thermidor</label>
 		<description>A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_LobsterThermidor</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_LobsterThermidor</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.454</Mass>
@@ -918,7 +918,7 @@
 		<label>Sunday roast</label>
 		<description>A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy.</description>
 		<graphicData>
-			<texPath>Things/Item/Meal/ReplimatMeals_L_SundayRoast</texPath> <!-- todo - Placeholder -->
+			<texPath>Things/Item/Meal/ReplimatMeals_L_SundayRoast</texPath>
 		</graphicData>
 		<statBases>
 			<Mass>0.572</Mass>
