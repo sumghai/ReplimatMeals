@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: borscht -->
+	<ReplimatMeals_S_Borscht.label>борщ</ReplimatMeals_S_Borscht.label>
+	
+	<!-- EN: An Eastern European sour soup made with red beetroot and meat stock, originating from Ukraine on Old Earth. -->
+	<ReplimatMeals_S_Borscht.description>Східноєвропейський кислий суп на основі червоного буряка та м'ясного бульйону, що походить з України на старій планеті Земля.</ReplimatMeals_S_Borscht.description>
+	
+	<!-- EN: Caesar salad -->
+	<ReplimatMeals_S_CaesarSalad.label>Салат цезар</ReplimatMeals_S_CaesarSalad.label>
+
+	<!-- EN: A simple tossed salad consisting of romaine lettuce, croutons and dressing. Despite its name, Caesar salad actually originates from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_CaesarSalad.description>Простий салат, що складається з салату ромен, сухариків та заправки. Незважаючи на свою назву, салат цезар насправді походить з Нижньої Каліфорнії в Мексиці на старій планеті Земля.</ReplimatMeals_S_CaesarSalad.description>
+
+	<!-- EN: Cuban sandwich -->
+	<ReplimatMeals_S_CubanSandwich.label>Кубинський сендвіч</ReplimatMeals_S_CubanSandwich.label>
+
+	<!-- EN: A variant of the classic ham and cheese sandwich introduced by Cuban immigrants to Miami and Tampa on Old Earth at the turn of the 20th Century. Made with long Cuban bread and cut diagonally before serving. -->
+	<ReplimatMeals_S_CubanSandwich.description>Варіант класичного бутерброда з шинкою та сиром, запроваджений кубинськими іммігрантами в Маямі та Тампі на старій планеті Земля на рубежі 20-го століття. Готується з довгим кубинським хлібом і розрізається по діагоналі перед подачею.</ReplimatMeals_S_CubanSandwich.description>
+
+	<!-- EN: currywurst -->
+	<ReplimatMeals_S_Currywurst.label>Карівурст</ReplimatMeals_S_Currywurst.label>
+
+	<!-- EN: Steamed and fried pork sausages sliced into bite-sized pieces and covered with curry ketchup, popularized as fast food in Germany on Old Earth in the late 1940s. Served with thick-cut fries. -->
+	<ReplimatMeals_S_Currywurst.description>Свинячі ковбаски на пару, нарізані шматочками розміром з укус і политі кетчупом каррі, популяризовані як фаст-фуд у Німеччині на старій планеті Земля наприкінці 1940-х років. Подаються з товсто нарізаною картоплею фрі.</ReplimatMeals_S_Currywurst.description>
+
+	<!-- EN: dumplings -->
+	<ReplimatMeals_S_Dumplings.label>Цзяоцзи</ReplimatMeals_S_Dumplings.label>
+
+	<!-- EN: Ground meat and vegetables wrapped with thinly-rolled wheat dough into small parcels, and cooked by boiling. Commonly eaten as a entrée or light meal in Taiwan, Hong Kong and Administrative Region Four on Old Earth since antiquity. -->
+	<ReplimatMeals_S_Dumplings.description>Мелене м'ясо та овочі, загорнуті в тонко розкачане пшеничне тісто в невеликі пакуночки, і готуються шляхом кип'ятіння. З давніх-давен їдять як закуску або легку страву на Тайвані, в Гонконзі та Четвертому адміністративному регіоні на старій планеті Земля.</ReplimatMeals_S_Dumplings.description>
+
+	<!-- EN: fish n' chips -->
+	<ReplimatMeals_S_FishAndChips.label>Фіш-енд-чипс</ReplimatMeals_S_FishAndChips.label>
+
+	<!-- EN: Fried fish in batter served with chips (thick-cut fries), a popular takeaway food in Commonwealth and other English-speaking nations on Old Earth. -->
+	<ReplimatMeals_S_FishAndChips.description>Смажена риба в клярі подається з чіпсами (товсто нарізаною картоплею фрі), популярною їжею на винос в країнах Співдружності та інших англомовних країнах на Старій планеті Землі.</ReplimatMeals_S_FishAndChips.description>
+
+	<!-- EN: gyros -->
+	<ReplimatMeals_S_Gyros.label>Гірос</ReplimatMeals_S_Gyros.label>
+
+	<!-- EN: Meat cooked on a vertical rotisserie and wrapped with tomatoes and onion in pita bread, popular in Greece on Old Earth. -->
+	<ReplimatMeals_S_Gyros.description>М'ясо, приготоване на вертикальному вертелі і загорнуте з помідорами і цибулею в лаваш, популярний в Греції на Старій планеті Земля.</ReplimatMeals_S_Gyros.description>
+
+	<!-- EN: kakigori -->
+	<ReplimatMeals_S_Kakigori.label>Какігорі</ReplimatMeals_S_Kakigori.label>
+
+	<!-- EN: An Old Earth Japanese shaved ice dessert topped with various syrups and sweeteners, hugely popular in summer. -->
+	<ReplimatMeals_S_Kakigori.description>Японський десерт зі струганого льоду, до якого додають різні сиропи та підсолоджувачі, надзвичайно популярний влітку.</ReplimatMeals_S_Kakigori.description>
+
+	<!-- EN: Margherita pizza -->
+	<ReplimatMeals_S_MargheritaPizza.label>Піца Маргарита</ReplimatMeals_S_MargheritaPizza.label>
+
+	<!-- EN: Slices of rustic pizza topped with crushed tomatoes, mozzarella cheese and sprigs of basil, originating from Italy on Old Earth. -->
+	<ReplimatMeals_S_MargheritaPizza.description>Шматочки сільської піци з подрібненими помідорами, сиром моцарела та гілочками базиліка, родом з Італії на старій планеті Земля</ReplimatMeals_S_MargheritaPizza.description>
+
+	<!-- EN: minced pork rice -->
+	<ReplimatMeals_S_MincedPorkRice.label>тушкований свинячий рис</ReplimatMeals_S_MincedPorkRice.label>
+
+	<!-- EN: A bowl of rice topped with braised ground pork and a slice of pickled vegetable, originating from Taiwan on Old Earth. -->
+	<ReplimatMeals_S_MincedPorkRice.description>Миска рису з тушкованою свининою та шматочком маринованого овоча, що походить з Тайваню на старій планеті Земля.</ReplimatMeals_S_MincedPorkRice.description>
+
+	<!-- EN: pancakes -->
+	<ReplimatMeals_S_Pancakes.label>Панкейк</ReplimatMeals_S_Pancakes.label>
+
+	<!-- EN: A generous stack of buttermilk pancakes drizzled with maple syrup from Old Earth Canada. -->
+	<ReplimatMeals_S_Pancakes.description>Щедрий стос млинців на пахті, политих кленовим сиропом з Канади на старій планеті Земля.</ReplimatMeals_S_Pancakes.description>
+
+	<!-- EN: pastrami on rye -->
+	<ReplimatMeals_S_PastramiOnRye.label>бутерброд з пастрамі</ReplimatMeals_S_PastramiOnRye.label>
+
+	<!-- EN: A sandwich consisting of sliced pastrami (cured and smoked beef brisket) served on rye bread, popularized by Jewish immigrants to New York on Old Earth in the late 1800s. -->
+	<ReplimatMeals_S_PastramiOnRye.description>Бутерброд, що складається з нарізаної пастрамі (в'яленої та копченої яловичої грудинки), який подається на житньому хлібі, популяризований єврейськими іммігрантами в Нью-Йорку на Старій планеті Земля в кінці 1800-х років.</ReplimatMeals_S_PastramiOnRye.description>
+
+	<!-- EN: pork buns -->
+	<ReplimatMeals_S_PorkBuns.label>Баоцзи</ReplimatMeals_S_PorkBuns.label>
+
+	<!-- EN: Ground pork wrapped in yeast-leavened dough before steaming, commonly eaten as a snack in Taiwan, Hong Kong, Japan and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_PorkBuns.description>Свинячий фарш, загорнутий у дріжджове тісто перед приготуванням на пару, зазвичай їдять як закуску на Тайвані, в Гонконзі, Японії та четвертому адміністративному регіоні на старій планеті Земля.</ReplimatMeals_S_PorkBuns.description>
+
+	<!-- EN: poutine -->
+	<ReplimatMeals_S_Poutine.label>Путін</ReplimatMeals_S_Poutine.label>
+
+	<!-- EN: A greasy dish of french fries and cheese curds topped with brown gravy, originating from the Quebec region of Canada on Old Earth. -->
+	<ReplimatMeals_S_Poutine.description>Жирна страва з картоплі фрі та сирних сирів, полита коричневою підливою, що походить з канадського регіону Квебек на старій планеті Земля.</ReplimatMeals_S_Poutine.description>
+
+	<!-- EN: sachertorte -->
+	<ReplimatMeals_S_Sachertorte.label>Захер</ReplimatMeals_S_Sachertorte.label>
+
+	<!-- EN: A decadent slice of chocolate sponge cake with apricot jam filling and dark chocolate icing, replicated under licence from the successors of the Hotel Sacher in Austria on Old Earth. -->
+	<ReplimatMeals_S_Sachertorte.description>Декадентський шматочок шоколадного бісквіту з начинкою з абрикосового джему та глазур'ю з чорного шоколаду, відтворений за ліцензією правонаступників готелю «Захер» в Австрії на старій планеті Земля.</ReplimatMeals_S_Sachertorte.description>
+
+	<!-- EN: shrimp tacos -->
+	<ReplimatMeals_S_ShrimpTacos.label>тако з креветками</ReplimatMeals_S_ShrimpTacos.label>
+
+	<!-- EN: Small hand-sized corn tortillas filled with fried shrimp, lettuce and avocado salsa, originating from Baja California in Mexico on Old Earth. -->
+	<ReplimatMeals_S_ShrimpTacos.description>Невеликі кукурудзяні коржики розміром з долоню, наповнені смаженими креветками, салатом і сальсою з авокадо, родом з Нижньої Каліфорнії в Мексиці на старій планеті Земля.</ReplimatMeals_S_ShrimpTacos.description>
+
+	<!-- EN: takoyaki -->
+	<ReplimatMeals_S_Takoyaki.label>Такоякі</ReplimatMeals_S_Takoyaki.label>
+
+	<!-- EN: A popular snack in Japan on Old Earth, made by cooking diced octopus meat into thick, battered balls. Served topped with Worcester sauce, mayonnaise, green laver and dried bonito shavings. -->
+	<ReplimatMeals_S_Takoyaki.description>Популярна закуска в Японії на старій планеті Земля, яку готують з нарізаного кубиками м'яса восьминога у вигляді товстих кульок у клярі. Подається з вустерським соусом, майонезом, зеленим лавром і сушеною стружкою боніто.</ReplimatMeals_S_Takoyaki.description>
+
+	<!-- EN: tiramisu -->
+	<ReplimatMeals_S_Tiramisu.label>Тирамісу</ReplimatMeals_S_Tiramisu.label>
+
+	<!-- EN: A layered dessert of coffee-soaked sponge cake biscuits, cream and cheese, hailing from Italy on Old Earth. -->
+	<ReplimatMeals_S_Tiramisu.description>Шаруватий десерт з просоченого кавою бісквітного печива, крему та сиру, родом з Італії на старій планеті Земля.</ReplimatMeals_S_Tiramisu.description>
+
+	<!-- EN: Weisswurst -->
+	<ReplimatMeals_S_Weisswurst.label>Біла ковбаса</ReplimatMeals_S_Weisswurst.label>
+
+	<!-- EN: A traditional Old Earth Bavarian sausage, made from minced veal and pork back bacon. Typically served with sweet mustard and soft pretzels. -->
+	<ReplimatMeals_S_Weisswurst.description>Традиційна баварська ковбаса на Старій планеті Земля, виготовлена з телячого фаршу та свинячого шпику. Зазвичай подається з солодкою гірчицею та м'якими кренделями.</ReplimatMeals_S_Weisswurst.description>
+
+	<!-- EN: zongzi -->
+	<ReplimatMeals_S_Zongzi.label>Цзунцзи</ReplimatMeals_S_Zongzi.label>
+
+	<!-- EN: Parcels of glutinous rice, meat and other savory fillings wrapped in bamboo leaves before steaming or boiling. Commonly eaten as a light meal in Taiwan, Hong Kong, Malaysia, Singapore and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_S_Zongzi.description>Пакунки з клейкого рису, м'яса та інших пікантних начинок, загорнуті в бамбукове листя перед приготуванням на пару або відварюванням. Зазвичай їдять як легку страву на Тайвані, в Гонконзі, Малайзії, Сінгапурі та Четвертому адміністративному регіоні на старій планеті Земля.</ReplimatMeals_S_Zongzi.description>
+
+	<!-- EN: beef noodle soup -->
+	<ReplimatMeals_F_BeefNoodleSoup.label>Суп із локшиною та яловичиною</ReplimatMeals_F_BeefNoodleSoup.label>
+
+	<!-- EN: Braised beef, vegetables and noodles served in a beef broth, commonly served at street stalls in Taiwan, Hong Kong and Administrative Region Four on Old Earth. -->
+	<ReplimatMeals_F_BeefNoodleSoup.description>Тушкована яловичина, овочі та локшина у яловичому бульйоні, яку зазвичай подають у вуличних кіосках Тайваню, Гонконгу та четвертого адміністративного району на старій планеті Земля.</ReplimatMeals_F_BeefNoodleSoup.description>
+
+	<!-- EN: beef rouladen -->
+	<ReplimatMeals_F_BeefRouladen.label>Яловичі рулетики</ReplimatMeals_F_BeefRouladen.label>
+
+	<!-- EN: A traditional Old Earth German dish consisting of thin, tenderized beef steaks rolled with a filling of bacon, mustard and pickles, before being simmered in a rich gravy. Served with braised red cabbage and potato dumplings. -->
+	<ReplimatMeals_F_BeefRouladen.description>Традиційна німецька страва зі старої планети Земля, що складається з тонких, ніжних яловичих стейків, обкатаних з начинкою з бекону, гірчиці та маринованих огірків, перед тим як тушкувати в густій підливі. Подається з тушкованою червоною капустою та картопляними галушками.</ReplimatMeals_F_BeefRouladen.description>
+
+	<!-- EN: bunny chow -->
+	<ReplimatMeals_F_BunnyChow.label>Банні чау</ReplimatMeals_F_BunnyChow.label>
+
+	<!-- EN: A hollowed-out loaf of white bread filled with lamb curry, popularized by Indian immigrants to South Africa on Old Earth in the 1940s. Served with a salad. -->
+	<ReplimatMeals_F_BunnyChow.description>Порожнистий буханець білого хліба з начинкою з баранячого каррі, популяризований індійськими іммігрантами до Південної Африки на старій планеті Земля в 1940-х роках. Подається з салатом.</ReplimatMeals_F_BunnyChow.description>
+
+	<!-- EN: chaliapin steak -->
+	<ReplimatMeals_F_ChaliapinSteak.label>Стейк Шаляпіна</ReplimatMeals_F_ChaliapinSteak.label>
+
+	<!-- EN: A beef steak tenderized with onions, served with watercress and sauteed potatoes. Originally invented in Japan on Old Earth in the mid-1930s, to cater for a Russian opera singer suffering from a toothache. -->
+	<ReplimatMeals_F_ChaliapinSteak.description>Яловичий стейк, обсмажений з цибулею, подається з крес-салатом і смаженою картоплею. Винайдений в Японії на старій планеті Земля в середині 1930-х років, щоб пригостити російського оперного співака, який страждав від зубного болю.</ReplimatMeals_F_ChaliapinSteak.description>
+
+	<!-- EN: chicken and waffles -->
+	<ReplimatMeals_F_ChickenAndWaffles.label>Курка з вафлями</ReplimatMeals_F_ChickenAndWaffles.label>
+
+	<!-- EN: Fried chicken served on waffles, a Pennsylvanian Dutch dish popularized in the Southern United States on Old Earth. -->
+	<ReplimatMeals_F_ChickenAndWaffles.description>Смажене курча на вафлях - пенсильванська голландська страва, популярна на півдні Сполучених Штатів на старій планеті Земля.</ReplimatMeals_F_ChickenAndWaffles.description>
+
+	<!-- EN: chicken Kyiv -->
+	<ReplimatMeals_F_ChickenKyiv.label>Котлета по-київськи</ReplimatMeals_F_ChickenKyiv.label>
+
+	<!-- EN: Breaded chicken cutlets stuffed with butter and herbs, popular in Russia, Ukraine and other former Eastern Bloc states on Old Earth. Served with mashed potatoes. -->
+	<ReplimatMeals_F_ChickenKyiv.description>Курячі котлети в паніровці, фаршировані вершковим маслом і зеленню, популярні в Росії, Україні та інших країнах колишнього Східного блоку на старій планеті Земля. Подаються з картопляним пюре.</ReplimatMeals_F_ChickenKyiv.description>
+
+	<!-- EN: chicken pot pie -->
+	<ReplimatMeals_F_ChickenPotPie.label>пиріг з куркою</ReplimatMeals_F_ChickenPotPie.label>
+
+	<!-- EN: A meat pie with a flaky pastry crust paired with a creamy chicken and mushroom filling, originating from Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenPotPie.description>М'ясний пиріг з листкового тіста в поєднанні з вершковою начинкою з курки та грибів, родом з Британії на старій планеті Земля.</ReplimatMeals_F_ChickenPotPie.description>
+
+	<!-- EN: chicken tikka masala -->
+	<ReplimatMeals_F_ChickenTikkaMasala.label>Курка тікка масала</ReplimatMeals_F_ChickenTikkaMasala.label>
+
+	<!-- EN: Chunks of chicken marinated in spices and yoghurt, roasted and served in a creamy, spiced tomato-based sauce, popularized by Indian immigrants to Britain on Old Earth. -->
+	<ReplimatMeals_F_ChickenTikkaMasala.description>Шматочки курки, замариновані в спеціях і йогурті, обсмажуються і подаються у вершково-пряному томатному соусі, який популяризували індійські іммігранти до Британії на старій планеті Земля.</ReplimatMeals_F_ChickenTikkaMasala.description>
+
+	<!-- EN: jollof rice -->
+	<ReplimatMeals_F_JollofRice.label>Джолоф</ReplimatMeals_F_JollofRice.label>
+
+	<!-- EN: An aromatic one-pot rice and tomato stew dish popular throughout West Africa on Old Earth, often paired with various vegetables and meat. -->
+	<ReplimatMeals_F_JollofRice.description>Ароматна страва з тушкованого рису та томатів в одному горщику, популярна в Західній Африці на старій планеті Земля, часто в поєднанні з різними овочами та м'ясом.</ReplimatMeals_F_JollofRice.description>
+
+	<!-- EN: käsespätzle -->
+	<ReplimatMeals_F_Kasespatzle.label>Кезешпецле</ReplimatMeals_F_Kasespatzle.label>
+
+	<!-- EN: European egg noodles layered with cheese and baked like a casserole, traditionally served in Germany and Austria on Old Earth. -->
+	<ReplimatMeals_F_Kasespatzle.description>Європейська яєчна локшина, перешарована сиром і запечена як запіканка, традиційно подається в Німеччині та Австрії на Старій планеті Земля.</ReplimatMeals_F_Kasespatzle.description>
+
+	<!-- EN: katsu curry -->
+	<ReplimatMeals_F_KatsuCurry.label>Кацу карі</ReplimatMeals_F_KatsuCurry.label>
+
+	<!-- EN: A breaded and fried pork cutlet served with rice and curry, popular in Japan on Old Earth. Served with a refreshing shredded cabbage salad. -->
+	<ReplimatMeals_F_KatsuCurry.description>Панірована та обсмажена свиняча котлета з рисом і каррі, популярна в Японії на старій планеті Земля. Подається з освіжаючим салатом з шаткованої капусти.</ReplimatMeals_F_KatsuCurry.description>
+
+	<!-- EN: koshari -->
+	<ReplimatMeals_F_Koshari.label>Кошарі</ReplimatMeals_F_Koshari.label>
+
+	<!-- EN: A mixed rice, pasta and lentil vegetarian dish popular as street food in Egypt on Old Earth. -->
+	<ReplimatMeals_F_Koshari.description>Вегетаріанська страва з рису, макаронів і сочевиці, популярна як вулична їжа в Єгипті на старій планеті Земля.</ReplimatMeals_F_Koshari.description>
+
+	<!-- EN: loco moco -->
+	<ReplimatMeals_F_LocoMoco.label>Локо Моко</ReplimatMeals_F_LocoMoco.label>
+
+	<!-- EN: A generous portion of white rice topped with a hamburger patty, a sunny-side up fried egg and brown gravy, originating from Hawaii on Old Earth in the late 1940s. -->
+	<ReplimatMeals_F_LocoMoco.description>Щедра порція білого рису, увінчана котлетою з гамбургера, яєчнею, підсмаженою на сонці, і коричневою підливою, родом з Гавайських островів на старій планеті Земля наприкінці 1940-х років.</ReplimatMeals_F_LocoMoco.description>
+
+	<!-- EN: nachos -->
+	<ReplimatMeals_F_Nachos.label>Начос</ReplimatMeals_F_Nachos.label>
+
+	<!-- EN: An Old Earth Tex-Mex dish, consisting of tortilla chips covered with refried beans, ground meat, shredded cheese and hot sauce. -->
+	<ReplimatMeals_F_Nachos.description>Техасько-мексиканська страва зі старої планети Земля, що складається з чіпсів тортильї, вкритих смаженою квасолею, меленим м'ясом, подрібненим сиром і гострим соусом.</ReplimatMeals_F_Nachos.description>
+
+	<!-- EN: omurice -->
+	<ReplimatMeals_F_Omurice.label>Омурайсу</ReplimatMeals_F_Omurice.label>
+
+	<!-- EN: Chicken fried rice covered with a thin egg omelette, popular in Japan on Old Earth. Often topped with motivational messages written in ketchup. -->
+	<ReplimatMeals_F_Omurice.description>Курячий смажений рис, покритий тонким яєчним омлетом, популярний в Японії на старій планеті Земля. Часто увінчується мотиваційними посланнями, написаними кетчупом.</ReplimatMeals_F_Omurice.description>
+
+	<!-- EN: paella -->
+	<ReplimatMeals_F_Paella.label>Паелья</ReplimatMeals_F_Paella.label>
+
+	<!-- EN: A rice dish originating from Valencia, Spain on Old Earth, cooked in saffron and chicken broth over a shallow pan, and topped with various meats, seafoods and vegetables. -->
+	<ReplimatMeals_F_Paella.description>Страва з рису, що походить з Валенсії, Іспанія, на старій планеті Земля, яку готують у шафрані та курячому бульйоні на неглибокій сковорідці, з різними видами м'яса, морепродуктів та овочів.</ReplimatMeals_F_Paella.description>
+
+	<!-- EN: phở -->
+	<ReplimatMeals_F_Pho.label>Фо</ReplimatMeals_F_Pho.label>
+
+	<!-- EN: Rice noodles, meat and vegetables served in clear broth, originating from Old Earth Vietnam. -->
+	<ReplimatMeals_F_Pho.description>Рисова локшина, м'ясо та овочі подаються в прозорому бульйоні, родом з В'єтнаму на старій планеті Земля.</ReplimatMeals_F_Pho.description>
+
+	<!-- EN: ramen -->
+	<ReplimatMeals_F_Ramen.label>Рамен</ReplimatMeals_F_Ramen.label>
+
+	<!-- EN: A highly-popular Japanese dish of Old Earth East Asian origins, consisting of wheat noodles served in pork bone broth with a variety of toppings. -->
+	<ReplimatMeals_F_Ramen.description>Дуже популярна на старій планеті Земля японська страва східноазійського походження, що складається з пшеничної локшини, яку подають на бульйоні зі свинячих кісток з різноманітними начинками.</ReplimatMeals_F_Ramen.description>
+
+	<!-- EN: ratatouille -->
+	<ReplimatMeals_F_Ratatouille.label>Рататуй</ReplimatMeals_F_Ratatouille.label>
+
+	<!-- EN: A traditional vegetable stew originating from France on Old Earth, artistically arranged in &lt;i&gt;confit byaldi&lt;/i&gt; form. -->
+	<ReplimatMeals_F_Ratatouille.description>Традиційне овочеве рагу родом з Франції на старій планеті Земля, художньо оформлене у вигляді конфі бальялді.</ReplimatMeals_F_Ratatouille.description>
+
+	<!-- EN: shepherd's pie -->
+	<ReplimatMeals_F_ShepherdsPie.label>Вівчарський пиріг</ReplimatMeals_F_ShepherdsPie.label>
+
+	<!-- EN: A minced meat pie topped with mash potato, originating from Britain and France on Old Earth. -->
+	<ReplimatMeals_F_ShepherdsPie.description>Пиріг з м'ясним фаршем та картопляним пюре, що походить з Британії та Франції на старій планеті Земля.</ReplimatMeals_F_ShepherdsPie.description>
+
+	<!-- EN: tagliatelle al ragù -->
+	<ReplimatMeals_F_TagliatelleAlRagu.label>тальятелле з м'ясним соусом</ReplimatMeals_F_TagliatelleAlRagu.label>
+
+	<!-- EN: Flat ribbon pasta generously topped with a slow-cooked meat sauce. The dish is widely-regarded the authentic traditional Old Earth Italian version of the genericized spaghetti bolognese. -->
+	<ReplimatMeals_F_TagliatelleAlRagu.description>Плоскі стрічкові макарони, щедро политі м'ясним соусом, приготованим на повільному вогні. Ця страва вважається автентичною традиційною італійською версією спагеті болоньєзе, яка широко відома на Старій планеті Земля.</ReplimatMeals_F_TagliatelleAlRagu.description>
+
+	<!-- EN: tenzaru soba -->
+	<ReplimatMeals_F_TenzaruSoba.label>Темпура та соба</ReplimatMeals_F_TenzaruSoba.label>
+
+	<!-- EN: Chilled buckwheat noodles served on a bamboo tray, accompanied by dipping sauce and a mound of tempura vegetables and seafood. Commonly eaten during summer in Japan on Old Earth. -->
+	<ReplimatMeals_F_TenzaruSoba.description>Охолоджена гречана локшина, яку подають на бамбуковій таці, з соусом для занурення та гіркою овочів і морепродуктів темпура. Зазвичай їдять влітку в Японії на старій планеті Земля.</ReplimatMeals_F_TenzaruSoba.description>
+
+	<!-- EN: full English breakfast -->
+	<ReplimatMeals_L_FullEnglishBreakfast.label>Повний англійський сніданок</ReplimatMeals_L_FullEnglishBreakfast.label>
+
+	<!-- EN: A hearty cooked breakfast dish popular in the British Isles on Old Earth, consisting of bacon, sausages, eggs, mushrooms, tomatoes, toast and baked beans. -->
+	<ReplimatMeals_L_FullEnglishBreakfast.description>Ситна страва для сніданку, популярна на Британських островах на старій планеті Земля, що складається з бекону, сосисок, яєць, грибів, помідорів, тостів і запеченої квасолі.</ReplimatMeals_L_FullEnglishBreakfast.description>
+
+	<!-- EN: gumbo -->
+	<ReplimatMeals_L_Gumbo.label>Гамбо</ReplimatMeals_L_Gumbo.label>
+
+	<!-- EN: A hearty Creole stew of meat, shellfish and vegetables thickened with okra, representing a fusion of Old Earth African, French, Spanish and Native American cuisine. Served with a generous portion of rice. -->
+	<ReplimatMeals_L_Gumbo.description>Ситне креольське рагу з м'яса, молюсків та овочів, заправлене бамією, що являє собою поєднання африканської, французької, іспанської та індіанської кухонь Старої планети Земля. Подається з великою порцією рису.</ReplimatMeals_L_Gumbo.description>
+
+	<!-- EN: Hāngī -->
+	<ReplimatMeals_L_Hangi.label>Ханга</ReplimatMeals_L_Hangi.label>
+
+	<!-- EN: An Old Earth New Zealand Maori feast of meats and root vegetables, traditionally cooked buried in earthen pits heated by hot stones. -->
+	<ReplimatMeals_L_Hangi.description>Свято новозеландських маорі з м'яса та коренеплодів зі старої планети Земля, які традиційно готують, закопуючи в земляні ями, нагріті гарячим камінням.</ReplimatMeals_L_Hangi.description>
+
+	<!-- EN: kaiseki -->
+	<ReplimatMeals_L_Kaiseki.label>Кайсекі</ReplimatMeals_L_Kaiseki.label>
+
+	<!-- EN: A traditional Old Earth Japanese multi-course feast of carefully-curated and artistically-arranged seasonal ingredients. -->
+	<ReplimatMeals_L_Kaiseki.description>Традиційний японський бенкет з кількох страв зі старої планети Земля з ретельно підібраних і художньо оформлених сезонних інгредієнтів.</ReplimatMeals_L_Kaiseki.description>
+
+	<!-- EN: Lobster Thermidor -->
+	<ReplimatMeals_L_LobsterThermidor.label>Омар термідор</ReplimatMeals_L_LobsterThermidor.label>
+
+	<!-- EN: A classic Old Earth French dish, consisting of lobster meat cooked in a rich wine-and-cheese sauce, stuffed back into its shell and browned to perfection. Served with steamed green beans and roast potatoes. -->
+	<ReplimatMeals_L_LobsterThermidor.description>Класична французька страва зі Старої планети Земля, що складається з м'яса омара, приготованого в насиченому винно-сирному соусі, запханого назад у панцир і підрум'яненого до досконалості. Подається зі стручковою квасолею на пару та смаженою картоплею.</ReplimatMeals_L_LobsterThermidor.description>
+
+	<!-- EN: Sunday roast -->
+	<ReplimatMeals_L_SundayRoast.label>Недільний обід</ReplimatMeals_L_SundayRoast.label>
+
+	<!-- EN: A traditional Old Earth British feast of roasted meat, potatoes and other vegetables, accompanied by Yorkshire pudding with gravy. -->
+	<ReplimatMeals_L_SundayRoast.description>Традиційне британське свято зі Старої Планети Земля зі смаженого м'яса, картоплі та інших овочів, що супроводжується йоркширським пудингом та підливою.</ReplimatMeals_L_SundayRoast.description>
+
+</LanguageData>
